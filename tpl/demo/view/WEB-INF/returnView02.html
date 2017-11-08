@@ -1,0 +1,15 @@
+<html>
+<head>
+	<title><%= title %></title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<body>
+姓名:<%= user.name %> <br/>
+性别:<%= user.sex %>  <br/>
+年龄:<%= user.age %>  <br/>
+爱好:
+<% user.hobby.forEach(function(hobby){ %>
+	<%= hobby %>
+<% });%>
+</body>
+</html>

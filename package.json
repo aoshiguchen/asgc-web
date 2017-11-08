@@ -1,0 +1,18 @@
+{
+  "name": "asgc-web",
+  "version": "1.2.0",
+  "description": "asgc-web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "asgc": "./bin/asgc.js"
+  },
+  "author": "aoshiguchen",
+  "license": "ISC",
+  "dependencies": { 
+    "log4js": "2.3.3",
+    "ejs": "2.5.7"
+  }
+}

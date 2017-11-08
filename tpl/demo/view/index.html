@@ -1,0 +1,57 @@
+﻿<html>
+<head>
+	<title>Test1</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<script type="text/javascript" src="/lib/jquery-1.11.0/jquery-1.11.0.min.js"></script>
+	<link href="/lib/bootstrap-3.3.7-dist/css/bootstrap.min.css" rel="stylesheet">	
+	<script type="text/javascript" src="/lib/bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>	
+	<script type="text/javascript" src="/lib/asgc/asgc.js"></script>
+	<script type="text/javascript" src="/js/index/index.js"></script>	
+	<style>
+	<style>
+		body{min-height:300px;padding-top:90px;background: #f6f6f6;}
+		.container{width:100%;padding-right:15px;padding-left:15px;padding-top:15px;margin-right:auto;margin-left:auto}
+	</style>
+</head>
+<body>
+
+	<ul class="nav nav-tabs">
+		<li class="active"><a href="#test1" data-toggle="tab">Test1</a></li>
+		<li><a href="#test2" data-toggle="tab">Test2</a></li>
+	</ul>
+	
+	<div class="tab-content">
+		<div class="tab-pane fade in active" id="test1">
+			<div asgc-scope="scope1">
+				段落:<p asgc-mv="html:开头--{{message}}--结尾"></p><br/>
+				只读:<input type="text" asgc-mv="val:{{message}}" readonly><br/>
+				输入:<input type="text" asgc-mv="val:{{message}}" asgc-vm="val:{{message}}"><br/><br/>
+				img:<img asgc-mv="src:{{url}}" width="200px" height="150px"/><br/>
+				路径:<input type="text" asgc-vm="val:{{url}}" style="width:500px;"><br/>
+				div:<div asgc-mv="html:{{content}}" style="width:400px;height:300px;"></div><br/>
+				<textarea  asgc-mvvm="val:{{content}}" rows="8" cols="60"></textarea><br/>
+				<input type="button" value="还原" id="btnReset"/> 
+			</div>
+			
+			<br/>
+			<br/>
+			<div asgc-scope="scope2">
+				只读:<input type="text" asgc-mv="val:{{message}}" readonly><br/>
+				<label><input type="checkbox" asgc-mv="checked:{{ flag }}"/>点我</label></br>
+				<input type="button" value="点它" id="btnClick"/>
+			</div>
+		</div>
+		<div class="tab-pane fade" id="test2">
+			<div asgc-scope="scope3">
+				<p asgc-css="color:{{color}}">这是第一个段落，用于测试动态修改css样式</p></br>
+				颜色值：<input asgc-mvvm="val:{{color}}" type="text"></br>
+
+				<p asgc-css="{{name}}:{{val}}">这是第二个段落，用于测试动态修改css样式。试试修改字体颜色、大小、背景吧</p></br>
+				css属性名：<input asgc-mvvm="val:{{name}}" type="text"></br>
+				css属性值：<input asgc-mvvm="val:{{val}}" type="text"></br>
+			</div>
+		</div>
+	</div>
+
+</body>
+</html>
