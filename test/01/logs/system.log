@@ -1,0 +1,1219 @@
+[2017-11-09 16:52:48.094] [INFO] asgcjs - logger configure finished.
+[2017-11-09 16:52:48.101] [INFO] asgcjs - webapp { path: 'D:\\myspace\\npm\\asgc-web\\test\\01',
+  config: 
+   { port: 8088,
+     action: 'action',
+     model: 'model',
+     view: 'view',
+     project: 'root',
+     baseUrl: '',
+     actionRequestSuffix: '',
+     autoload: false,
+     mapping: [] },
+  actionFiles: 
+   [ { size: 112,
+       name: 'test1.js',
+       path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' } ],
+  modelFiles: [],
+  viewFiles: [],
+  baseUrl: 'http://localhost:8088/' }
+[2017-11-09 16:52:48.105] [INFO] asgcjs - startup webapp : http://localhost:8088/
+[2017-11-09 16:52:48.105] [INFO] asgcjs - loadActionFiles [ { size: 112,
+    name: 'test1.js',
+    path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' } ]
+[2017-11-09 16:52:48.108] [INFO] asgcjs - file: { size: 112,
+  name: 'test1.js',
+  path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' }
+[2017-11-09 16:52:48.110] [INFO] asgcjs - loadMappingConfig []
+[2017-11-09 16:52:48.111] [INFO] asgcjs - load default mapping...
+[2017-11-09 16:52:48.111] [INFO] asgcjs - mapping: { '/hello': '/hello' }
+[2017-11-09 16:52:48.111] [INFO] asgcjs - create server...
+[2017-11-09 16:52:48.113] [INFO] asgcjs - { path: 'D:\\myspace\\npm\\asgc-web\\test\\01',
+  config: 
+   { port: 8088,
+     action: 'action',
+     model: 'model',
+     view: 'view',
+     project: 'root',
+     baseUrl: '',
+     actionRequestSuffix: '',
+     autoload: false,
+     mapping: [] },
+  actionFiles: 
+   [ { size: 112,
+       name: 'test1.js',
+       path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' } ],
+  modelFiles: [],
+  viewFiles: [],
+  baseUrl: 'http://localhost:8088/',
+  server: 
+   { mapping: { '/hello': '/hello' },
+     base: { defineAction: [Function] },
+     actions: [ '/hello': [Function] ] } }
+[2017-11-09 16:52:48.117] [INFO] asgcjs - 
+[2017-11-09 16:52:48.117] [INFO] asgcjs - 启动成功! 端口号:8088
+[2017-11-09 16:52:54.611] [INFO] asgcjs - url: /
+[2017-11-09 16:52:54.611] [INFO] asgcjs - req: { url: '/', params: {} }
+[2017-11-09 16:52:54.611] [INFO] asgcjs - target: undefined
+[2017-11-09 16:52:54.772] [INFO] asgcjs - url: /favicon.ico
+[2017-11-09 16:52:54.772] [INFO] asgcjs - req: { url: '/favicon.ico', params: {} }
+[2017-11-09 16:52:54.772] [INFO] asgcjs - target: undefined
+[2017-11-09 16:52:57.706] [INFO] asgcjs - url: /hello
+[2017-11-09 16:52:57.706] [INFO] asgcjs - req: { url: '/hello', params: {} }
+[2017-11-09 16:52:57.707] [INFO] asgcjs - target: /hello
+[2017-11-09 16:52:57.708] [INFO] asgcjs - method:get
+[2017-11-09 16:52:57.709] [INFO] asgcjs - params: {}
+[2017-11-09 16:52:57.735] [INFO] asgcjs - url: /favicon.ico
+[2017-11-09 16:52:57.735] [INFO] asgcjs - req: { url: '/favicon.ico', params: {} }
+[2017-11-09 16:52:57.736] [INFO] asgcjs - target: undefined
+[2017-11-09 16:54:27.515] [INFO] asgcjs - logger configure finished.
+[2017-11-09 16:54:27.521] [INFO] asgcjs - webapp { path: 'D:\\myspace\\npm\\asgc-web\\test\\01',
+  config: 
+   { port: 8088,
+     action: 'action',
+     model: 'model',
+     view: 'view',
+     project: 'root',
+     baseUrl: '',
+     actionRequestSuffix: '',
+     autoload: false,
+     mapping: [] },
+  actionFiles: 
+   [ { size: 112,
+       name: 'test1.js',
+       path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' } ],
+  modelFiles: [],
+  viewFiles: [],
+  baseUrl: 'http://localhost:8088/' }
+[2017-11-09 16:54:27.526] [INFO] asgcjs - startup webapp : http://localhost:8088/
+[2017-11-09 16:54:27.526] [INFO] asgcjs - loadActionFiles [ { size: 112,
+    name: 'test1.js',
+    path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' } ]
+[2017-11-09 16:54:27.527] [INFO] asgcjs - file: { size: 112,
+  name: 'test1.js',
+  path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' }
+[2017-11-09 16:54:27.528] [INFO] asgcjs - loadMappingConfig []
+[2017-11-09 16:54:27.528] [INFO] asgcjs - load default mapping...
+[2017-11-09 16:54:27.528] [INFO] asgcjs - mapping: { '/hello': '/hello' }
+[2017-11-09 16:54:27.528] [INFO] asgcjs - create server...
+[2017-11-09 16:54:27.529] [INFO] asgcjs - { path: 'D:\\myspace\\npm\\asgc-web\\test\\01',
+  config: 
+   { port: 8088,
+     action: 'action',
+     model: 'model',
+     view: 'view',
+     project: 'root',
+     baseUrl: '',
+     actionRequestSuffix: '',
+     autoload: false,
+     mapping: [] },
+  actionFiles: 
+   [ { size: 112,
+       name: 'test1.js',
+       path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' } ],
+  modelFiles: [],
+  viewFiles: [],
+  baseUrl: 'http://localhost:8088/',
+  server: 
+   { mapping: { '/hello': '/hello' },
+     base: { defineAction: [Function] },
+     actions: [ '/hello': [Function] ] } }
+[2017-11-09 16:54:27.533] [INFO] asgcjs - 
+              _____     _____     _____ 
+    /\       / ____|   / ____|   / ____|
+   /  \     | (___    | |  __   | |     
+  / /\ \     \___ \   | | |_ |  | |     
+ / ____ \    ____) |  | |__| |  | |____ 
+/_/    \_\  |_____/    \_____|   \_____|
+
+
+[2017-11-09 16:54:27.533] [INFO] asgcjs - 启动成功! 端口号:8088
+[2017-11-09 16:54:38.820] [INFO] asgcjs - url: /hello
+[2017-11-09 16:54:38.820] [INFO] asgcjs - req: { url: '/hello', params: {} }
+[2017-11-09 16:54:38.821] [INFO] asgcjs - target: /hello
+[2017-11-09 16:54:38.821] [INFO] asgcjs - method:get
+[2017-11-09 16:54:38.822] [INFO] asgcjs - params: {}
+[2017-11-09 16:54:38.837] [INFO] asgcjs - url: /favicon.ico
+[2017-11-09 16:54:38.837] [INFO] asgcjs - req: { url: '/favicon.ico', params: {} }
+[2017-11-09 16:54:38.838] [INFO] asgcjs - target: undefined
+[2017-11-09 20:19:48.912] [INFO] asgcjs - logger configure finished.
+[2017-11-09 20:19:48.927] [INFO] asgcjs - webapp { path: 'D:\\myspace\\npm\\asgc-web\\test\\01',
+  config: 
+   { port: 8088,
+     action: 'action',
+     model: 'model',
+     view: 'view',
+     project: 'root',
+     baseUrl: '',
+     actionRequestSuffix: '',
+     autoload: false,
+     mapping: [] },
+  actionFiles: 
+   [ { size: 206,
+       name: 'test1.js',
+       path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' } ],
+  modelFiles: [],
+  viewFiles: [],
+  baseUrl: 'http://localhost:8088/' }
+[2017-11-09 20:19:48.935] [INFO] asgcjs - startup webapp : http://localhost:8088/
+[2017-11-09 20:19:48.935] [INFO] asgcjs - loadActionFiles [ { size: 206,
+    name: 'test1.js',
+    path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' } ]
+[2017-11-09 20:19:48.936] [INFO] asgcjs - file: { size: 206,
+  name: 'test1.js',
+  path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' }
+[2017-11-09 20:19:48.938] [INFO] asgcjs - loadMappingConfig []
+[2017-11-09 20:19:48.938] [INFO] asgcjs - load default mapping...
+[2017-11-09 20:19:48.938] [INFO] asgcjs - mapping: { '/hello': '/hello', '/test1': '/test1' }
+[2017-11-09 20:19:48.941] [INFO] asgcjs - create server...
+[2017-11-09 20:19:48.942] [INFO] asgcjs - { path: 'D:\\myspace\\npm\\asgc-web\\test\\01',
+  config: 
+   { port: 8088,
+     action: 'action',
+     model: 'model',
+     view: 'view',
+     project: 'root',
+     baseUrl: '',
+     actionRequestSuffix: '',
+     autoload: false,
+     mapping: [] },
+  actionFiles: 
+   [ { size: 206,
+       name: 'test1.js',
+       path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' } ],
+  modelFiles: [],
+  viewFiles: [],
+  baseUrl: 'http://localhost:8088/',
+  server: 
+   { mapping: { '/hello': '/hello', '/test1': '/test1' },
+     base: { defineAction: [Function] },
+     actions: [ '/hello': [Function], '/test1': [Function] ] } }
+[2017-11-09 20:19:48.946] [INFO] asgcjs - 
+              _____     _____     _____ 
+    /\       / ____|   / ____|   / ____|
+   /  \     | (___    | |  __   | |     
+  / /\ \     \___ \   | | |_ |  | |     
+ / ____ \    ____) |  | |__| |  | |____ 
+/_/    \_\  |_____/    \_____|   \_____|
+
+
+[2017-11-09 20:19:48.946] [INFO] asgcjs - 启动成功! 端口号:8088
+[2017-11-09 20:19:57.443] [INFO] asgcjs - url: /hello
+[2017-11-09 20:20:50.651] [INFO] asgcjs - logger configure finished.
+[2017-11-09 20:20:50.655] [INFO] asgcjs - webapp { path: 'D:\\myspace\\npm\\asgc-web\\test\\01',
+  config: 
+   { port: 8088,
+     action: 'action',
+     model: 'model',
+     view: 'view',
+     project: 'root',
+     baseUrl: '',
+     actionRequestSuffix: '',
+     autoload: false,
+     mapping: [] },
+  actionFiles: 
+   [ { size: 206,
+       name: 'test1.js',
+       path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' } ],
+  modelFiles: [],
+  viewFiles: [],
+  baseUrl: 'http://localhost:8088/' }
+[2017-11-09 20:20:50.662] [INFO] asgcjs - startup webapp : http://localhost:8088/
+[2017-11-09 20:20:50.662] [INFO] asgcjs - loadActionFiles [ { size: 206,
+    name: 'test1.js',
+    path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' } ]
+[2017-11-09 20:20:50.662] [INFO] asgcjs - file: { size: 206,
+  name: 'test1.js',
+  path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' }
+[2017-11-09 20:20:50.663] [INFO] asgcjs - loadMappingConfig []
+[2017-11-09 20:20:50.663] [INFO] asgcjs - load default mapping...
+[2017-11-09 20:20:50.663] [INFO] asgcjs - mapping: { '/hello': '/hello', '/test1': '/test1' }
+[2017-11-09 20:20:50.665] [INFO] asgcjs - create server...
+[2017-11-09 20:20:50.665] [INFO] asgcjs - { path: 'D:\\myspace\\npm\\asgc-web\\test\\01',
+  config: 
+   { port: 8088,
+     action: 'action',
+     model: 'model',
+     view: 'view',
+     project: 'root',
+     baseUrl: '',
+     actionRequestSuffix: '',
+     autoload: false,
+     mapping: [] },
+  actionFiles: 
+   [ { size: 206,
+       name: 'test1.js',
+       path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' } ],
+  modelFiles: [],
+  viewFiles: [],
+  baseUrl: 'http://localhost:8088/',
+  server: 
+   { mapping: { '/hello': '/hello', '/test1': '/test1' },
+     base: { defineAction: [Function] },
+     actions: [ '/hello': [Function], '/test1': [Function] ] } }
+[2017-11-09 20:20:50.668] [INFO] asgcjs - 
+              _____     _____     _____ 
+    /\       / ____|   / ____|   / ____|
+   /  \     | (___    | |  __   | |     
+  / /\ \     \___ \   | | |_ |  | |     
+ / ____ \    ____) |  | |__| |  | |____ 
+/_/    \_\  |_____/    \_____|   \_____|
+
+
+[2017-11-09 20:20:50.668] [INFO] asgcjs - 启动成功! 端口号:8088
+[2017-11-09 20:20:53.020] [INFO] asgcjs - url: /hello
+[2017-11-09 20:20:53.020] [INFO] asgcjs - req: { url: '/hello', params: {} }
+[2017-11-09 20:20:53.021] [INFO] asgcjs - target: /hello
+[2017-11-09 20:20:53.021] [INFO] asgcjs - method:get
+[2017-11-09 20:20:53.022] [INFO] asgcjs - params: {}
+[2017-11-09 20:20:53.050] [INFO] asgcjs - url: /favicon.ico
+[2017-11-09 20:20:53.050] [INFO] asgcjs - req: { url: '/favicon.ico', params: {} }
+[2017-11-09 20:20:53.051] [INFO] asgcjs - target: undefined
+[2017-11-09 20:20:56.168] [INFO] asgcjs - url: /test1
+[2017-11-09 20:20:56.168] [INFO] asgcjs - req: { url: '/test1', params: {} }
+[2017-11-09 20:20:56.168] [INFO] asgcjs - target: /test1
+[2017-11-09 20:20:56.169] [INFO] asgcjs - method:get
+[2017-11-09 20:20:56.169] [INFO] asgcjs - params: {}
+[2017-11-09 20:20:56.186] [INFO] asgcjs - url: /favicon.ico
+[2017-11-09 20:20:56.186] [INFO] asgcjs - req: { url: '/favicon.ico', params: {} }
+[2017-11-09 20:20:56.186] [INFO] asgcjs - target: undefined
+[2017-11-09 20:25:23.110] [INFO] asgcjs - logger configure finished.
+[2017-11-09 20:25:23.115] [INFO] asgcjs - webapp { path: 'D:\\myspace\\npm\\asgc-web\\test\\01',
+  config: 
+   { port: 8088,
+     action: 'action',
+     model: 'model',
+     view: 'view',
+     project: 'root',
+     baseUrl: '',
+     actionRequestSuffix: '',
+     autoload: false,
+     mapping: [] },
+  actionFiles: 
+   [ { size: 206,
+       name: 'test1.js',
+       path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' } ],
+  modelFiles: [],
+  viewFiles: [],
+  baseUrl: 'http://localhost:8088/' }
+[2017-11-09 20:25:23.120] [INFO] asgcjs - startup webapp : http://localhost:8088/
+[2017-11-09 20:25:23.120] [INFO] asgcjs - loadActionFiles [ { size: 206,
+    name: 'test1.js',
+    path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' } ]
+[2017-11-09 20:25:23.122] [INFO] asgcjs - file: { size: 206,
+  name: 'test1.js',
+  path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' }
+[2017-11-09 20:25:23.122] [INFO] asgcjs - loadMappingConfig []
+[2017-11-09 20:25:23.123] [INFO] asgcjs - load default mapping...
+[2017-11-09 20:25:23.123] [INFO] asgcjs - mapping: { '/hello': '/hello', '/test1': '/test1' }
+[2017-11-09 20:25:23.123] [INFO] asgcjs - create server...
+[2017-11-09 20:25:23.124] [INFO] asgcjs - { path: 'D:\\myspace\\npm\\asgc-web\\test\\01',
+  config: 
+   { port: 8088,
+     action: 'action',
+     model: 'model',
+     view: 'view',
+     project: 'root',
+     baseUrl: '',
+     actionRequestSuffix: '',
+     autoload: false,
+     mapping: [] },
+  actionFiles: 
+   [ { size: 206,
+       name: 'test1.js',
+       path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' } ],
+  modelFiles: [],
+  viewFiles: [],
+  baseUrl: 'http://localhost:8088/',
+  server: 
+   { mapping: { '/hello': '/hello', '/test1': '/test1' },
+     base: { defineAction: [Function] },
+     actions: [ '/hello': [Function], '/test1': [Function] ] } }
+[2017-11-09 20:25:23.129] [INFO] asgcjs - 
+              _____     _____     _____ 
+    /\       / ____|   / ____|   / ____|
+   /  \     | (___    | |  __   | |     
+  / /\ \     \___ \   | | |_ |  | |     
+ / ____ \    ____) |  | |__| |  | |____ 
+/_/    \_\  |_____/    \_____|   \_____|
+
+
+[2017-11-09 20:25:23.129] [INFO] asgcjs - 启动成功! 端口号:8088
+[2017-11-09 20:25:25.954] [INFO] asgcjs - url: /test1
+[2017-11-09 20:26:19.198] [INFO] asgcjs - logger configure finished.
+[2017-11-09 20:26:19.202] [INFO] asgcjs - webapp { path: 'D:\\myspace\\npm\\asgc-web\\test\\01',
+  config: 
+   { port: 8088,
+     action: 'action',
+     model: 'model',
+     view: 'view',
+     project: 'root',
+     baseUrl: '',
+     actionRequestSuffix: '',
+     autoload: false,
+     mapping: [] },
+  actionFiles: 
+   [ { size: 206,
+       name: 'test1.js',
+       path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' } ],
+  modelFiles: [],
+  viewFiles: [],
+  baseUrl: 'http://localhost:8088/' }
+[2017-11-09 20:26:19.208] [INFO] asgcjs - startup webapp : http://localhost:8088/
+[2017-11-09 20:26:19.209] [INFO] asgcjs - loadActionFiles [ { size: 206,
+    name: 'test1.js',
+    path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' } ]
+[2017-11-09 20:26:19.209] [INFO] asgcjs - file: { size: 206,
+  name: 'test1.js',
+  path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' }
+[2017-11-09 20:26:19.210] [INFO] asgcjs - loadMappingConfig []
+[2017-11-09 20:26:19.211] [INFO] asgcjs - load default mapping...
+[2017-11-09 20:26:19.211] [INFO] asgcjs - mapping: { '/hello': '/hello', '/test1': '/test1' }
+[2017-11-09 20:26:19.211] [INFO] asgcjs - create server...
+[2017-11-09 20:26:19.213] [INFO] asgcjs - { path: 'D:\\myspace\\npm\\asgc-web\\test\\01',
+  config: 
+   { port: 8088,
+     action: 'action',
+     model: 'model',
+     view: 'view',
+     project: 'root',
+     baseUrl: '',
+     actionRequestSuffix: '',
+     autoload: false,
+     mapping: [] },
+  actionFiles: 
+   [ { size: 206,
+       name: 'test1.js',
+       path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' } ],
+  modelFiles: [],
+  viewFiles: [],
+  baseUrl: 'http://localhost:8088/',
+  server: 
+   { mapping: { '/hello': '/hello', '/test1': '/test1' },
+     base: { defineAction: [Function] },
+     actions: [ '/hello': [Function], '/test1': [Function] ] } }
+[2017-11-09 20:26:19.216] [INFO] asgcjs - 
+              _____     _____     _____ 
+    /\       / ____|   / ____|   / ____|
+   /  \     | (___    | |  __   | |     
+  / /\ \     \___ \   | | |_ |  | |     
+ / ____ \    ____) |  | |__| |  | |____ 
+/_/    \_\  |_____/    \_____|   \_____|
+
+
+[2017-11-09 20:26:19.216] [INFO] asgcjs - 启动成功! 端口号:8088
+[2017-11-09 20:26:23.517] [INFO] asgcjs - url: /test1
+[2017-11-09 20:27:52.612] [INFO] asgcjs - logger configure finished.
+[2017-11-09 20:27:52.618] [INFO] asgcjs - webapp { path: 'D:\\myspace\\npm\\asgc-web\\test\\01',
+  config: 
+   { port: 8088,
+     action: 'action',
+     model: 'model',
+     view: 'view',
+     project: 'root',
+     baseUrl: '',
+     actionRequestSuffix: '',
+     autoload: false,
+     mapping: [] },
+  actionFiles: 
+   [ { size: 206,
+       name: 'test1.js',
+       path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' } ],
+  modelFiles: [],
+  viewFiles: [],
+  baseUrl: 'http://localhost:8088/' }
+[2017-11-09 20:27:52.623] [INFO] asgcjs - startup webapp : http://localhost:8088/
+[2017-11-09 20:27:52.623] [INFO] asgcjs - loadActionFiles [ { size: 206,
+    name: 'test1.js',
+    path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' } ]
+[2017-11-09 20:27:52.623] [INFO] asgcjs - file: { size: 206,
+  name: 'test1.js',
+  path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' }
+[2017-11-09 20:27:52.625] [INFO] asgcjs - loadMappingConfig []
+[2017-11-09 20:27:52.626] [INFO] asgcjs - load default mapping...
+[2017-11-09 20:27:52.626] [INFO] asgcjs - mapping: { '/hello': '/hello', '/test1': '/test1' }
+[2017-11-09 20:27:52.626] [INFO] asgcjs - create server...
+[2017-11-09 20:27:52.628] [INFO] asgcjs - { path: 'D:\\myspace\\npm\\asgc-web\\test\\01',
+  config: 
+   { port: 8088,
+     action: 'action',
+     model: 'model',
+     view: 'view',
+     project: 'root',
+     baseUrl: '',
+     actionRequestSuffix: '',
+     autoload: false,
+     mapping: [] },
+  actionFiles: 
+   [ { size: 206,
+       name: 'test1.js',
+       path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' } ],
+  modelFiles: [],
+  viewFiles: [],
+  baseUrl: 'http://localhost:8088/',
+  server: 
+   { mapping: { '/hello': '/hello', '/test1': '/test1' },
+     base: { defineAction: [Function] },
+     actions: [ '/hello': [Function], '/test1': [Function] ] } }
+[2017-11-09 20:27:52.631] [INFO] asgcjs - 
+              _____     _____     _____ 
+    /\       / ____|   / ____|   / ____|
+   /  \     | (___    | |  __   | |     
+  / /\ \     \___ \   | | |_ |  | |     
+ / ____ \    ____) |  | |__| |  | |____ 
+/_/    \_\  |_____/    \_____|   \_____|
+
+
+[2017-11-09 20:27:52.631] [INFO] asgcjs - 启动成功! 端口号:8088
+[2017-11-09 20:27:56.150] [INFO] asgcjs - url: /test1
+[2017-11-09 20:27:56.150] [INFO] asgcjs - req: { url: '/test1', params: {} }
+[2017-11-09 20:27:56.150] [INFO] asgcjs - target: /test1
+[2017-11-09 20:27:56.150] [INFO] asgcjs - method:get
+[2017-11-09 20:27:56.151] [INFO] asgcjs - params: {}
+[2017-11-09 20:27:56.152] [INFO] asgcjs - redirect: http://www.baidu.com
+[2017-11-09 20:29:07.721] [INFO] asgcjs - logger configure finished.
+[2017-11-09 20:29:07.726] [INFO] asgcjs - webapp { path: 'D:\\myspace\\npm\\asgc-web\\test\\01',
+  config: 
+   { port: 8088,
+     action: 'action',
+     model: 'model',
+     view: 'view',
+     project: 'root',
+     baseUrl: '',
+     actionRequestSuffix: '',
+     autoload: false,
+     mapping: [] },
+  actionFiles: 
+   [ { size: 387,
+       name: 'test1.js',
+       path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' } ],
+  modelFiles: [],
+  viewFiles: [],
+  baseUrl: 'http://localhost:8088/' }
+[2017-11-09 20:29:07.730] [INFO] asgcjs - startup webapp : http://localhost:8088/
+[2017-11-09 20:29:07.730] [INFO] asgcjs - loadActionFiles [ { size: 387,
+    name: 'test1.js',
+    path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' } ]
+[2017-11-09 20:29:07.732] [INFO] asgcjs - file: { size: 387,
+  name: 'test1.js',
+  path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' }
+[2017-11-09 20:29:07.733] [INFO] asgcjs - loadMappingConfig []
+[2017-11-09 20:29:07.733] [INFO] asgcjs - load default mapping...
+[2017-11-09 20:29:07.733] [INFO] asgcjs - mapping: { '/hello': '/hello',
+  '/test1': '/test1',
+  '/test2': '/test2',
+  '/test3': '/test3' }
+[2017-11-09 20:29:07.735] [INFO] asgcjs - create server...
+[2017-11-09 20:29:07.736] [INFO] asgcjs - { path: 'D:\\myspace\\npm\\asgc-web\\test\\01',
+  config: 
+   { port: 8088,
+     action: 'action',
+     model: 'model',
+     view: 'view',
+     project: 'root',
+     baseUrl: '',
+     actionRequestSuffix: '',
+     autoload: false,
+     mapping: [] },
+  actionFiles: 
+   [ { size: 387,
+       name: 'test1.js',
+       path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' } ],
+  modelFiles: [],
+  viewFiles: [],
+  baseUrl: 'http://localhost:8088/',
+  server: 
+   { mapping: 
+      { '/hello': '/hello',
+        '/test1': '/test1',
+        '/test2': '/test2',
+        '/test3': '/test3' },
+     base: { defineAction: [Function] },
+     actions: 
+      [ '/hello': [Function],
+        '/test1': [Function],
+        '/test2': [Function],
+        '/test3': [Function] ] } }
+[2017-11-09 20:29:07.739] [INFO] asgcjs - 
+              _____     _____     _____ 
+    /\       / ____|   / ____|   / ____|
+   /  \     | (___    | |  __   | |     
+  / /\ \     \___ \   | | |_ |  | |     
+ / ____ \    ____) |  | |__| |  | |____ 
+/_/    \_\  |_____/    \_____|   \_____|
+
+
+[2017-11-09 20:29:07.739] [INFO] asgcjs - 启动成功! 端口号:8088
+[2017-11-09 20:29:10.714] [INFO] asgcjs - url: /test1
+[2017-11-09 20:29:10.714] [INFO] asgcjs - req: { url: '/test1', params: {} }
+[2017-11-09 20:29:10.714] [INFO] asgcjs - target: /test1
+[2017-11-09 20:29:10.715] [INFO] asgcjs - method:get
+[2017-11-09 20:29:10.716] [INFO] asgcjs - params: {}
+[2017-11-09 20:29:10.717] [INFO] asgcjs - redirect: http://www.baidu.com
+[2017-11-09 20:29:14.034] [INFO] asgcjs - url: /test2
+[2017-11-09 20:29:14.034] [INFO] asgcjs - req: { url: '/test2', params: {} }
+[2017-11-09 20:29:14.035] [INFO] asgcjs - target: /test2
+[2017-11-09 20:29:14.035] [INFO] asgcjs - method:get
+[2017-11-09 20:29:14.035] [INFO] asgcjs - params: {}
+[2017-11-09 20:29:14.036] [INFO] asgcjs - redirect: /test1
+[2017-11-09 20:29:19.012] [INFO] asgcjs - url: /test3
+[2017-11-09 20:29:19.012] [INFO] asgcjs - req: { url: '/test3', params: {} }
+[2017-11-09 20:29:19.013] [INFO] asgcjs - target: /test3
+[2017-11-09 20:29:19.013] [INFO] asgcjs - method:get
+[2017-11-09 20:29:19.013] [INFO] asgcjs - params: {}
+[2017-11-09 20:29:19.015] [INFO] asgcjs - redirect: http://localhost:8088/test1
+[2017-11-09 20:30:16.078] [INFO] asgcjs - logger configure finished.
+[2017-11-09 20:30:16.083] [INFO] asgcjs - webapp { path: 'D:\\myspace\\npm\\asgc-web\\test\\01',
+  config: 
+   { port: 8088,
+     action: 'action',
+     model: 'model',
+     view: 'view',
+     project: 'root',
+     baseUrl: '',
+     actionRequestSuffix: '',
+     autoload: false,
+     mapping: [] },
+  actionFiles: 
+   [ { size: 387,
+       name: 'test1.js',
+       path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' } ],
+  modelFiles: [],
+  viewFiles: [],
+  baseUrl: 'http://localhost:8088/' }
+[2017-11-09 20:30:16.089] [INFO] asgcjs - startup webapp : http://localhost:8088/
+[2017-11-09 20:30:16.089] [INFO] asgcjs - loadActionFiles [ { size: 387,
+    name: 'test1.js',
+    path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' } ]
+[2017-11-09 20:30:16.089] [INFO] asgcjs - file: { size: 387,
+  name: 'test1.js',
+  path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' }
+[2017-11-09 20:30:16.090] [INFO] asgcjs - loadMappingConfig []
+[2017-11-09 20:30:16.090] [INFO] asgcjs - load default mapping...
+[2017-11-09 20:30:16.091] [INFO] asgcjs - mapping: { '/hello': '/hello',
+  '/test1': '/test1',
+  '/test2': '/test2',
+  '/test3': '/test3' }
+[2017-11-09 20:30:16.091] [INFO] asgcjs - create server...
+[2017-11-09 20:30:16.092] [INFO] asgcjs - { path: 'D:\\myspace\\npm\\asgc-web\\test\\01',
+  config: 
+   { port: 8088,
+     action: 'action',
+     model: 'model',
+     view: 'view',
+     project: 'root',
+     baseUrl: '',
+     actionRequestSuffix: '',
+     autoload: false,
+     mapping: [] },
+  actionFiles: 
+   [ { size: 387,
+       name: 'test1.js',
+       path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' } ],
+  modelFiles: [],
+  viewFiles: [],
+  baseUrl: 'http://localhost:8088/',
+  server: 
+   { mapping: 
+      { '/hello': '/hello',
+        '/test1': '/test1',
+        '/test2': '/test2',
+        '/test3': '/test3' },
+     base: { defineAction: [Function] },
+     actions: 
+      [ '/hello': [Function],
+        '/test1': [Function],
+        '/test2': [Function],
+        '/test3': [Function] ] } }
+[2017-11-09 20:30:16.096] [INFO] asgcjs - 
+              _____     _____     _____ 
+    /\       / ____|   / ____|   / ____|
+   /  \     | (___    | |  __   | |     
+  / /\ \     \___ \   | | |_ |  | |     
+ / ____ \    ____) |  | |__| |  | |____ 
+/_/    \_\  |_____/    \_____|   \_____|
+
+
+[2017-11-09 20:30:16.096] [INFO] asgcjs - 启动成功! 端口号:8088
+[2017-11-09 20:30:18.386] [INFO] asgcjs - url: /test3
+[2017-11-09 20:30:18.386] [INFO] asgcjs - req: { url: '/test3', params: {} }
+[2017-11-09 20:30:18.386] [INFO] asgcjs - target: /test3
+[2017-11-09 20:30:18.387] [INFO] asgcjs - method:get
+[2017-11-09 20:30:18.388] [INFO] asgcjs - params: {}
+[2017-11-09 20:30:18.389] [INFO] asgcjs - redirect: http://localhost:8088/test1
+[2017-11-09 20:30:18.394] [INFO] asgcjs - url: /test1
+[2017-11-09 20:30:18.394] [INFO] asgcjs - req: { url: '/test1', params: {} }
+[2017-11-09 20:30:18.394] [INFO] asgcjs - target: /test1
+[2017-11-09 20:30:18.395] [INFO] asgcjs - method:get
+[2017-11-09 20:30:18.395] [INFO] asgcjs - params: {}
+[2017-11-09 20:30:18.396] [INFO] asgcjs - redirect: http://www.baidu.com
+[2017-11-09 20:31:53.192] [INFO] asgcjs - url: /hello
+[2017-11-09 20:31:53.192] [INFO] asgcjs - req: { url: '/hello', params: {} }
+[2017-11-09 20:31:53.194] [INFO] asgcjs - target: /hello
+[2017-11-09 20:31:53.194] [INFO] asgcjs - method:get
+[2017-11-09 20:31:53.194] [INFO] asgcjs - params: {}
+[2017-11-09 20:31:53.805] [INFO] asgcjs - url: /favicon.ico
+[2017-11-09 20:31:53.805] [INFO] asgcjs - req: { url: '/favicon.ico', params: {} }
+[2017-11-09 20:31:53.806] [INFO] asgcjs - target: undefined
+[2017-11-09 20:31:58.539] [INFO] asgcjs - url: /test2
+[2017-11-09 20:31:58.540] [INFO] asgcjs - req: { url: '/test2', params: {} }
+[2017-11-09 20:31:58.540] [INFO] asgcjs - target: /test2
+[2017-11-09 20:31:58.541] [INFO] asgcjs - method:get
+[2017-11-09 20:31:58.541] [INFO] asgcjs - params: {}
+[2017-11-09 20:31:58.543] [INFO] asgcjs - redirect: /test1
+[2017-11-09 20:32:12.847] [INFO] asgcjs - logger configure finished.
+[2017-11-09 20:32:12.852] [INFO] asgcjs - webapp { path: 'D:\\myspace\\npm\\asgc-web\\test\\01',
+  config: 
+   { port: 8088,
+     action: 'action',
+     model: 'model',
+     view: 'view',
+     project: 'root',
+     baseUrl: '',
+     actionRequestSuffix: '',
+     autoload: false,
+     mapping: [] },
+  actionFiles: 
+   [ { size: 387,
+       name: 'test1.js',
+       path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' } ],
+  modelFiles: [],
+  viewFiles: [],
+  baseUrl: 'http://localhost:8088/' }
+[2017-11-09 20:32:12.859] [INFO] asgcjs - startup webapp : http://localhost:8088/
+[2017-11-09 20:32:12.859] [INFO] asgcjs - loadActionFiles [ { size: 387,
+    name: 'test1.js',
+    path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' } ]
+[2017-11-09 20:32:12.860] [INFO] asgcjs - file: { size: 387,
+  name: 'test1.js',
+  path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' }
+[2017-11-09 20:32:12.862] [INFO] asgcjs - loadMappingConfig []
+[2017-11-09 20:32:12.862] [INFO] asgcjs - load default mapping...
+[2017-11-09 20:32:12.862] [INFO] asgcjs - mapping: { '/hello': '/hello',
+  '/test1': '/test1',
+  '/test2': '/test2',
+  '/test3': '/test3' }
+[2017-11-09 20:32:12.862] [INFO] asgcjs - create server...
+[2017-11-09 20:32:12.863] [INFO] asgcjs - { path: 'D:\\myspace\\npm\\asgc-web\\test\\01',
+  config: 
+   { port: 8088,
+     action: 'action',
+     model: 'model',
+     view: 'view',
+     project: 'root',
+     baseUrl: '',
+     actionRequestSuffix: '',
+     autoload: false,
+     mapping: [] },
+  actionFiles: 
+   [ { size: 387,
+       name: 'test1.js',
+       path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' } ],
+  modelFiles: [],
+  viewFiles: [],
+  baseUrl: 'http://localhost:8088/',
+  server: 
+   { mapping: 
+      { '/hello': '/hello',
+        '/test1': '/test1',
+        '/test2': '/test2',
+        '/test3': '/test3' },
+     base: { defineAction: [Function] },
+     actions: 
+      [ '/hello': [Function],
+        '/test1': [Function],
+        '/test2': [Function],
+        '/test3': [Function] ] } }
+[2017-11-09 20:32:12.867] [INFO] asgcjs - 
+              _____     _____     _____ 
+    /\       / ____|   / ____|   / ____|
+   /  \     | (___    | |  __   | |     
+  / /\ \     \___ \   | | |_ |  | |     
+ / ____ \    ____) |  | |__| |  | |____ 
+/_/    \_\  |_____/    \_____|   \_____|
+
+
+[2017-11-09 20:32:12.867] [INFO] asgcjs - 启动成功! 端口号:8088
+[2017-11-09 20:33:02.705] [INFO] asgcjs - logger configure finished.
+[2017-11-09 20:33:02.711] [INFO] asgcjs - webapp { path: 'D:\\myspace\\npm\\asgc-web\\test\\01',
+  config: 
+   { port: 8088,
+     action: 'action',
+     model: 'model',
+     view: 'view',
+     project: 'root',
+     baseUrl: '',
+     actionRequestSuffix: '',
+     autoload: false,
+     mapping: [] },
+  actionFiles: 
+   [ { size: 387,
+       name: 'test1.js',
+       path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' } ],
+  modelFiles: [],
+  viewFiles: [],
+  baseUrl: 'http://localhost:8088/' }
+[2017-11-09 20:33:02.714] [INFO] asgcjs - startup webapp : http://localhost:8088/
+[2017-11-09 20:33:02.714] [INFO] asgcjs - loadActionFiles [ { size: 387,
+    name: 'test1.js',
+    path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' } ]
+[2017-11-09 20:33:02.716] [INFO] asgcjs - file: { size: 387,
+  name: 'test1.js',
+  path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' }
+[2017-11-09 20:33:02.717] [INFO] asgcjs - loadMappingConfig []
+[2017-11-09 20:33:02.717] [INFO] asgcjs - load default mapping...
+[2017-11-09 20:33:02.717] [INFO] asgcjs - mapping: { '/hello': '/hello',
+  '/test1': '/test1',
+  '/test2': '/test2',
+  '/test3': '/test3' }
+[2017-11-09 20:33:02.718] [INFO] asgcjs - create server...
+[2017-11-09 20:33:02.720] [INFO] asgcjs - { path: 'D:\\myspace\\npm\\asgc-web\\test\\01',
+  config: 
+   { port: 8088,
+     action: 'action',
+     model: 'model',
+     view: 'view',
+     project: 'root',
+     baseUrl: '',
+     actionRequestSuffix: '',
+     autoload: false,
+     mapping: [] },
+  actionFiles: 
+   [ { size: 387,
+       name: 'test1.js',
+       path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' } ],
+  modelFiles: [],
+  viewFiles: [],
+  baseUrl: 'http://localhost:8088/',
+  server: 
+   { mapping: 
+      { '/hello': '/hello',
+        '/test1': '/test1',
+        '/test2': '/test2',
+        '/test3': '/test3' },
+     base: { defineAction: [Function] },
+     actions: 
+      [ '/hello': [Function],
+        '/test1': [Function],
+        '/test2': [Function],
+        '/test3': [Function] ] } }
+[2017-11-09 20:33:02.724] [INFO] asgcjs - 
+              _____     _____     _____ 
+    /\       / ____|   / ____|   / ____|
+   /  \     | (___    | |  __   | |     
+  / /\ \     \___ \   | | |_ |  | |     
+ / ____ \    ____) |  | |__| |  | |____ 
+/_/    \_\  |_____/    \_____|   \_____|
+
+
+[2017-11-09 20:33:02.724] [INFO] asgcjs - 启动成功! 端口号:8088
+[2017-11-09 20:33:03.039] [INFO] asgcjs - url: /hello
+[2017-11-09 20:33:03.039] [INFO] asgcjs - req: { url: '/hello', params: {} }
+[2017-11-09 20:33:03.040] [INFO] asgcjs - target: /hello
+[2017-11-09 20:33:03.040] [INFO] asgcjs - method:get
+[2017-11-09 20:33:03.042] [INFO] asgcjs - params: {}
+[2017-11-09 20:33:03.087] [INFO] asgcjs - url: /favicon.ico
+[2017-11-09 20:33:03.088] [INFO] asgcjs - req: { url: '/favicon.ico', params: {} }
+[2017-11-09 20:33:03.088] [INFO] asgcjs - target: undefined
+[2017-11-09 20:33:52.945] [INFO] asgcjs - url: /test
+[2017-11-09 20:33:52.946] [INFO] asgcjs - req: { url: '/test', params: {} }
+[2017-11-09 20:33:52.946] [INFO] asgcjs - target: undefined
+[2017-11-09 20:33:53.075] [INFO] asgcjs - url: /favicon.ico
+[2017-11-09 20:33:53.075] [INFO] asgcjs - req: { url: '/favicon.ico', params: {} }
+[2017-11-09 20:33:53.076] [INFO] asgcjs - target: undefined
+[2017-11-09 20:37:58.205] [INFO] asgcjs - logger configure finished.
+[2017-11-09 20:37:58.210] [INFO] asgcjs - webapp { path: 'D:\\myspace\\npm\\asgc-web\\test\\01',
+  config: 
+   { port: 8088,
+     action: 'action',
+     model: 'model',
+     view: 'view',
+     project: 'root',
+     baseUrl: '',
+     actionRequestSuffix: '',
+     autoload: false,
+     mapping: [] },
+  actionFiles: 
+   [ { size: 387,
+       name: 'test1.js',
+       path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' } ],
+  modelFiles: [],
+  viewFiles: [],
+  baseUrl: 'http://localhost:8088/' }
+[2017-11-09 20:37:58.215] [INFO] asgcjs - startup webapp : http://localhost:8088/
+[2017-11-09 20:37:58.215] [INFO] asgcjs - loadActionFiles [ { size: 387,
+    name: 'test1.js',
+    path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' } ]
+[2017-11-09 20:37:58.216] [INFO] asgcjs - file: { size: 387,
+  name: 'test1.js',
+  path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' }
+[2017-11-09 20:37:58.217] [INFO] asgcjs - loadMappingConfig []
+[2017-11-09 20:37:58.217] [INFO] asgcjs - load default mapping...
+[2017-11-09 20:37:58.217] [INFO] asgcjs - mapping: { '/hello': '/hello',
+  '/test1': '/test1',
+  '/test2': '/test2',
+  '/test3': '/test3' }
+[2017-11-09 20:37:58.217] [INFO] asgcjs - create server...
+[2017-11-09 20:37:58.219] [INFO] asgcjs - { path: 'D:\\myspace\\npm\\asgc-web\\test\\01',
+  config: 
+   { port: 8088,
+     action: 'action',
+     model: 'model',
+     view: 'view',
+     project: 'root',
+     baseUrl: '',
+     actionRequestSuffix: '',
+     autoload: false,
+     mapping: [] },
+  actionFiles: 
+   [ { size: 387,
+       name: 'test1.js',
+       path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' } ],
+  modelFiles: [],
+  viewFiles: [],
+  baseUrl: 'http://localhost:8088/',
+  server: 
+   { mapping: 
+      { '/hello': '/hello',
+        '/test1': '/test1',
+        '/test2': '/test2',
+        '/test3': '/test3' },
+     base: { defineAction: [Function] },
+     actions: 
+      [ '/hello': [Function],
+        '/test1': [Function],
+        '/test2': [Function],
+        '/test3': [Function] ] } }
+[2017-11-09 20:37:58.221] [INFO] asgcjs - 
+              _____     _____     _____ 
+    /\       / ____|   / ____|   / ____|
+   /  \     | (___    | |  __   | |     
+  / /\ \     \___ \   | | |_ |  | |     
+ / ____ \    ____) |  | |__| |  | |____ 
+/_/    \_\  |_____/    \_____|   \_____|
+
+
+[2017-11-09 20:37:58.222] [INFO] asgcjs - 启动成功! 端口号:8088
+[2017-11-09 20:38:48.701] [INFO] asgcjs - url: /hello
+[2017-11-09 20:38:48.701] [INFO] asgcjs - req: { url: '/hello', params: {} }
+[2017-11-09 20:38:48.701] [INFO] asgcjs - target: /hello
+[2017-11-09 20:38:48.702] [INFO] asgcjs - method:get
+[2017-11-09 20:38:48.702] [INFO] asgcjs - params: {}
+[2017-11-09 20:38:48.704] [INFO] asgcjs - action return data: hello world !
+[2017-11-09 20:38:48.804] [INFO] asgcjs - url: /favicon.ico
+[2017-11-09 20:38:48.804] [INFO] asgcjs - req: { url: '/favicon.ico', params: {} }
+[2017-11-09 20:38:48.805] [INFO] asgcjs - target: undefined
+[2017-11-09 20:39:00.566] [INFO] asgcjs - url: /test
+[2017-11-09 20:39:00.567] [INFO] asgcjs - req: { url: '/test', params: {} }
+[2017-11-09 20:39:00.567] [INFO] asgcjs - target: undefined
+[2017-11-09 20:39:00.579] [INFO] asgcjs - url: /favicon.ico
+[2017-11-09 20:39:00.579] [INFO] asgcjs - req: { url: '/favicon.ico', params: {} }
+[2017-11-09 20:39:00.579] [INFO] asgcjs - target: undefined
+[2017-11-09 20:42:22.369] [INFO] asgcjs - logger configure finished.
+[2017-11-09 20:42:22.373] [INFO] asgcjs - webapp { path: 'D:\\myspace\\npm\\asgc-web\\test\\01',
+  config: 
+   { port: 8088,
+     action: 'action',
+     model: 'model',
+     view: 'view',
+     project: 'root',
+     baseUrl: '',
+     actionRequestSuffix: '',
+     autoload: false,
+     mapping: [] },
+  actionFiles: 
+   [ { size: 387,
+       name: 'test1.js',
+       path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' } ],
+  modelFiles: [],
+  viewFiles: [],
+  baseUrl: 'http://localhost:8088/' }
+[2017-11-09 20:42:22.379] [INFO] asgcjs - startup webapp : http://localhost:8088/
+[2017-11-09 20:42:22.379] [INFO] asgcjs - loadActionFiles [ { size: 387,
+    name: 'test1.js',
+    path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' } ]
+[2017-11-09 20:42:22.380] [INFO] asgcjs - file: { size: 387,
+  name: 'test1.js',
+  path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' }
+[2017-11-09 20:42:22.381] [INFO] asgcjs - loadMappingConfig []
+[2017-11-09 20:42:22.381] [INFO] asgcjs - load default mapping...
+[2017-11-09 20:42:22.381] [INFO] asgcjs - mapping: { '/hello': '/hello',
+  '/test1': '/test1',
+  '/test2': '/test2',
+  '/test3': '/test3' }
+[2017-11-09 20:42:22.382] [INFO] asgcjs - create server...
+[2017-11-09 20:42:22.382] [INFO] asgcjs - { path: 'D:\\myspace\\npm\\asgc-web\\test\\01',
+  config: 
+   { port: 8088,
+     action: 'action',
+     model: 'model',
+     view: 'view',
+     project: 'root',
+     baseUrl: '',
+     actionRequestSuffix: '',
+     autoload: false,
+     mapping: [] },
+  actionFiles: 
+   [ { size: 387,
+       name: 'test1.js',
+       path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' } ],
+  modelFiles: [],
+  viewFiles: [],
+  baseUrl: 'http://localhost:8088/',
+  server: 
+   { mapping: 
+      { '/hello': '/hello',
+        '/test1': '/test1',
+        '/test2': '/test2',
+        '/test3': '/test3' },
+     base: { defineAction: [Function] },
+     actions: 
+      [ '/hello': [Function],
+        '/test1': [Function],
+        '/test2': [Function],
+        '/test3': [Function] ] } }
+[2017-11-09 20:42:22.385] [INFO] asgcjs - 
+              _____     _____     _____ 
+    /\       / ____|   / ____|   / ____|
+   /  \     | (___    | |  __   | |     
+  / /\ \     \___ \   | | |_ |  | |     
+ / ____ \    ____) |  | |__| |  | |____ 
+/_/    \_\  |_____/    \_____|   \_____|
+
+
+[2017-11-09 20:42:22.386] [INFO] asgcjs - 启动成功! 端口号:8088
+[2017-11-09 20:45:05.629] [INFO] asgcjs - logger configure finished.
+[2017-11-09 20:45:05.629] [INFO] asgcjs - webapp { path: 'D:\\myspace\\npm\\asgc-web\\test\\01',
+  config: 
+   { port: 8088,
+     action: 'action',
+     model: 'model',
+     view: 'view',
+     project: 'root',
+     baseUrl: '',
+     actionRequestSuffix: '',
+     autoload: false,
+     mapping: [] },
+  actionFiles: 
+   [ { size: 387,
+       name: 'test1.js',
+       path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' } ],
+  modelFiles: [],
+  viewFiles: [],
+  baseUrl: 'http://localhost:8088/' }
+[2017-11-09 20:45:05.644] [INFO] asgcjs - startup webapp : http://localhost:8088/
+[2017-11-09 20:45:05.644] [INFO] asgcjs - loadActionFiles [ { size: 387,
+    name: 'test1.js',
+    path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' } ]
+[2017-11-09 20:45:05.644] [INFO] asgcjs - file: { size: 387,
+  name: 'test1.js',
+  path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' }
+[2017-11-09 20:45:05.644] [INFO] asgcjs - loadMappingConfig []
+[2017-11-09 20:45:05.644] [INFO] asgcjs - load default mapping...
+[2017-11-09 20:45:05.644] [INFO] asgcjs - mapping: { '/hello': '/hello',
+  '/test1': '/test1',
+  '/test2': '/test2',
+  '/test3': '/test3' }
+[2017-11-09 20:45:05.644] [INFO] asgcjs - create server...
+[2017-11-09 20:45:05.644] [INFO] asgcjs - { path: 'D:\\myspace\\npm\\asgc-web\\test\\01',
+  config: 
+   { port: 8088,
+     action: 'action',
+     model: 'model',
+     view: 'view',
+     project: 'root',
+     baseUrl: '',
+     actionRequestSuffix: '',
+     autoload: false,
+     mapping: [] },
+  actionFiles: 
+   [ { size: 387,
+       name: 'test1.js',
+       path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' } ],
+  modelFiles: [],
+  viewFiles: [],
+  baseUrl: 'http://localhost:8088/',
+  server: 
+   { mapping: 
+      { '/hello': '/hello',
+        '/test1': '/test1',
+        '/test2': '/test2',
+        '/test3': '/test3' },
+     base: { defineAction: [Function] },
+     actions: 
+      [ '/hello': [Function],
+        '/test1': [Function],
+        '/test2': [Function],
+        '/test3': [Function] ] } }
+[2017-11-09 20:45:05.644] [INFO] asgcjs - 
+              _____     _____     _____ 
+    /\       / ____|   / ____|   / ____|
+   /  \     | (___    | |  __   | |     
+  / /\ \     \___ \   | | |_ |  | |     
+ / ____ \    ____) |  | |__| |  | |____ 
+/_/    \_\  |_____/    \_____|   \_____|
+
+
+[2017-11-09 20:45:05.644] [INFO] asgcjs - 启动成功! 端口号:8088
+[2017-11-09 20:45:27.184] [INFO] asgcjs - url: /hello
+[2017-11-09 20:45:27.184] [INFO] asgcjs - req: { url: '/hello', params: {} }
+[2017-11-09 20:45:27.184] [INFO] asgcjs - target: /hello
+[2017-11-09 20:45:27.185] [INFO] asgcjs - method:get
+[2017-11-09 20:45:27.185] [INFO] asgcjs - params: {}
+[2017-11-09 20:45:27.187] [INFO] asgcjs - action return data: hello world !
+[2017-11-09 20:45:27.288] [INFO] asgcjs - url: /favicon.ico
+[2017-11-09 20:45:27.288] [INFO] asgcjs - req: { url: '/favicon.ico', params: {} }
+[2017-11-09 20:45:27.288] [INFO] asgcjs - target: undefined
+[2017-11-09 20:45:43.601] [INFO] asgcjs - url: /favicon.ico
+[2017-11-09 20:45:43.601] [INFO] asgcjs - req: { url: '/favicon.ico', params: {} }
+[2017-11-09 20:45:43.601] [INFO] asgcjs - target: undefined
+[2017-11-09 20:46:28.862] [INFO] asgcjs - logger configure finished.
+[2017-11-09 20:46:28.867] [INFO] asgcjs - webapp { path: 'D:\\myspace\\npm\\asgc-web\\test\\01',
+  config: 
+   { port: 8088,
+     action: 'action',
+     model: 'model',
+     view: 'view',
+     project: 'root',
+     baseUrl: '',
+     actionRequestSuffix: '',
+     autoload: false,
+     mapping: [] },
+  actionFiles: 
+   [ { size: 405,
+       name: 'test1.js',
+       path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' } ],
+  modelFiles: [],
+  viewFiles: [],
+  baseUrl: 'http://localhost:8088/' }
+[2017-11-09 20:46:28.871] [INFO] asgcjs - startup webapp : http://localhost:8088/
+[2017-11-09 20:46:28.871] [INFO] asgcjs - loadActionFiles [ { size: 405,
+    name: 'test1.js',
+    path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' } ]
+[2017-11-09 20:46:28.872] [INFO] asgcjs - file: { size: 405,
+  name: 'test1.js',
+  path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' }
+[2017-11-09 20:46:28.874] [INFO] asgcjs - loadMappingConfig []
+[2017-11-09 20:46:28.874] [INFO] asgcjs - load default mapping...
+[2017-11-09 20:46:28.874] [INFO] asgcjs - mapping: { '/hello': '/hello', '/test1': '/test1' }
+[2017-11-09 20:46:28.875] [INFO] asgcjs - create server...
+[2017-11-09 20:46:28.875] [INFO] asgcjs - { path: 'D:\\myspace\\npm\\asgc-web\\test\\01',
+  config: 
+   { port: 8088,
+     action: 'action',
+     model: 'model',
+     view: 'view',
+     project: 'root',
+     baseUrl: '',
+     actionRequestSuffix: '',
+     autoload: false,
+     mapping: [] },
+  actionFiles: 
+   [ { size: 405,
+       name: 'test1.js',
+       path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' } ],
+  modelFiles: [],
+  viewFiles: [],
+  baseUrl: 'http://localhost:8088/',
+  server: 
+   { mapping: { '/hello': '/hello', '/test1': '/test1' },
+     base: { defineAction: [Function] },
+     actions: [ '/hello': [Function], '/test1': [Function] ] } }
+[2017-11-09 20:46:28.880] [INFO] asgcjs - 
+              _____     _____     _____ 
+    /\       / ____|   / ____|   / ____|
+   /  \     | (___    | |  __   | |     
+  / /\ \     \___ \   | | |_ |  | |     
+ / ____ \    ____) |  | |__| |  | |____ 
+/_/    \_\  |_____/    \_____|   \_____|
+
+
+[2017-11-09 20:46:28.880] [INFO] asgcjs - 启动成功! 端口号:8088
+[2017-11-09 20:46:32.414] [INFO] asgcjs - url: /hello
+[2017-11-09 20:46:32.414] [INFO] asgcjs - req: { url: '/hello', params: {} }
+[2017-11-09 20:46:32.415] [INFO] asgcjs - target: /hello
+[2017-11-09 20:46:32.415] [INFO] asgcjs - method:get
+[2017-11-09 20:46:32.416] [INFO] asgcjs - params: {}
+[2017-11-09 20:46:32.418] [INFO] asgcjs - action return data: hello world !
+[2017-11-09 20:46:32.982] [INFO] asgcjs - url: /favicon.ico
+[2017-11-09 20:46:32.982] [INFO] asgcjs - req: { url: '/favicon.ico', params: {} }
+[2017-11-09 20:46:32.982] [INFO] asgcjs - target: undefined
+[2017-11-09 20:47:02.831] [INFO] asgcjs - url: /test5
+[2017-11-09 20:47:02.831] [INFO] asgcjs - req: { url: '/test5', params: {} }
+[2017-11-09 20:47:02.832] [INFO] asgcjs - target: undefined
+[2017-11-09 20:47:02.965] [INFO] asgcjs - url: /favicon.ico
+[2017-11-09 20:47:02.965] [INFO] asgcjs - req: { url: '/favicon.ico', params: {} }
+[2017-11-09 20:47:02.965] [INFO] asgcjs - target: undefined
+[2017-11-09 20:48:00.894] [INFO] asgcjs - logger configure finished.
+[2017-11-09 20:48:00.899] [INFO] asgcjs - webapp { path: 'D:\\myspace\\npm\\asgc-web\\test\\01',
+  config: 
+   { port: 8088,
+     action: 'action',
+     model: 'model',
+     view: 'view',
+     project: 'root',
+     baseUrl: '',
+     actionRequestSuffix: '',
+     autoload: false,
+     mapping: [] },
+  actionFiles: 
+   [ { size: 386,
+       name: 'test1.js',
+       path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' } ],
+  modelFiles: [],
+  viewFiles: [],
+  baseUrl: 'http://localhost:8088/' }
+[2017-11-09 20:48:00.903] [INFO] asgcjs - startup webapp : http://localhost:8088/
+[2017-11-09 20:48:00.903] [INFO] asgcjs - loadActionFiles [ { size: 386,
+    name: 'test1.js',
+    path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' } ]
+[2017-11-09 20:48:00.905] [INFO] asgcjs - file: { size: 386,
+  name: 'test1.js',
+  path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' }
+[2017-11-09 20:48:00.906] [INFO] asgcjs - loadMappingConfig []
+[2017-11-09 20:48:00.907] [INFO] asgcjs - load default mapping...
+[2017-11-09 20:48:00.907] [INFO] asgcjs - mapping: { '/hello': '/hello',
+  '/test1': '/test1',
+  '/test2': '/test2',
+  '/test3': '/test3' }
+[2017-11-09 20:48:00.908] [INFO] asgcjs - create server...
+[2017-11-09 20:48:00.908] [INFO] asgcjs - { path: 'D:\\myspace\\npm\\asgc-web\\test\\01',
+  config: 
+   { port: 8088,
+     action: 'action',
+     model: 'model',
+     view: 'view',
+     project: 'root',
+     baseUrl: '',
+     actionRequestSuffix: '',
+     autoload: false,
+     mapping: [] },
+  actionFiles: 
+   [ { size: 386,
+       name: 'test1.js',
+       path: 'D:\\myspace\\npm\\asgc-web\\test\\01/action/test1.js' } ],
+  modelFiles: [],
+  viewFiles: [],
+  baseUrl: 'http://localhost:8088/',
+  server: 
+   { mapping: 
+      { '/hello': '/hello',
+        '/test1': '/test1',
+        '/test2': '/test2',
+        '/test3': '/test3' },
+     base: { defineAction: [Function] },
+     actions: 
+      [ '/hello': [Function],
+        '/test1': [Function],
+        '/test2': [Function],
+        '/test3': [Function] ] } }
+[2017-11-09 20:48:00.912] [INFO] asgcjs - 
+              _____     _____     _____ 
+    /\       / ____|   / ____|   / ____|
+   /  \     | (___    | |  __   | |     
+  / /\ \     \___ \   | | |_ |  | |     
+ / ____ \    ____) |  | |__| |  | |____ 
+/_/    \_\  |_____/    \_____|   \_____|
+
+
+[2017-11-09 20:48:00.912] [INFO] asgcjs - 启动成功! 端口号:8088

@@ -1,6 +1,6 @@
 {
   "name": "asgc-web",
-  "version": "1.2.0",
+  "version": "1.2.4",
   "description": "asgc-web",
   "main": "index.js",
   "scripts": {
@@ -13,6 +13,7 @@
   "license": "ISC",
   "dependencies": { 
     "log4js": "2.3.3",
-    "ejs": "2.5.7"
+    "ejs": "2.5.7",
+    "yargs": "10.0.3"
   }
 }
