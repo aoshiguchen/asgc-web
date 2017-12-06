@@ -1,11 +1,13 @@
-var server = asgcjs.use('server');
-var logger = asgcjs.use('logger');
+var server = asgc.use('server');
+var logger = asgc.use('logger');
 
+//返回页面示例
 server.defineAction('/returnView01',function(request, response,args){
 	
 	return 'view:/WEB-INF/returnView01.html'
 });
 
+//返回页面并渲染模板数据
 server.defineAction('/returnView02',function(request, response,args){
 	
 	return {

@@ -1,0 +1,27 @@
+{
+	"default": {
+		"mime": "text/plain",
+		"type": "text"
+	},
+	"data": [{
+		"suffix": ".html",
+		"mime": "text/html",
+		"type": "text"
+	},{
+		"suffix": ".css,.css.map",
+		"mime": "text/css",
+		"type": "text"
+	},{
+		"suffix": ".js,.map",
+		"mime": "application/javascript",
+		"type": "text"
+	},{
+		"suffix": ".svg",
+		"mime": "image/svg+xml",
+		"type": "text"
+	},{
+		"suffix": ".ico",
+		"mime": "image/x-icon",
+		"type": "bin"
+	}]
+}

@@ -1,6 +1,7 @@
-﻿var server = asgcjs.use('server');
-var logger = asgcjs.use('logger');
+﻿var server = asgc.use('server');
+var logger = asgc.use('logger');
 
+//返回json示例
 server.defineAction('/test4',function(request, response,args){
 
 	logger.info('test4','start');

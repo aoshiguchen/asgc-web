@@ -1,0 +1,27 @@
+{
+	"name": "",
+	"project": "",
+	"version": "",
+	"author": "",
+	"date": "",
+
+	"actionFloder": "action",
+	"serviceFloder": "service",
+	"viewFloder": "view",
+
+	"actionRequestSuffix": "",
+
+	"autoload": false,
+	"port": 8088,
+
+	"mapping": [
+		{
+			"url": "/test1",
+			"action": "test1"
+		},
+		{
+			"url": "/",
+			"resource": "/index.html"
+		}
+	]
+}  

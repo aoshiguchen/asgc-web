@@ -1,0 +1,27 @@
+{
+	"name": "12",
+	"project": "",
+	"version": "",
+	"author": "",
+	"date": "",
+
+	"actionFloder": "action",
+	"serviceFloder": "service",
+	"viewFloder": "view",
+
+	"actionRequestSuffix": "",
+
+	"autoload": false,
+	"port": 8088,
+ 
+	"mapping": [
+		{
+			"url": "/welcome",
+			"action": "www"
+		},
+		{
+			"url": "/aa",
+			"resource": "/WEB-INF/a.html"
+		}
+	]
+}  

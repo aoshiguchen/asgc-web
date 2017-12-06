@@ -1,0 +1,148 @@
+// Variables
+$font-primary: 'Open Sans', Arial, sans-serif;
+
+$brand-primary: #1AA59A;
+$brand-black: #000000;
+$brand-white: #ffffff;
+
+$screen-lg: 1200px;
+$screen-md: 992px;
+$screen-sm: 768px;
+$screen-xs: 480px;
+
+// Mixin
+@mixin fh5co-translateX($translatex) {
+	-moz-transform: translateX($translatex);
+	-webkit-transform: translateX($translatex);
+	-ms-transform: translateX($translatex);
+	-o-transform: translateX($translatex);
+	transform: translateX($translatex);
+}
+@mixin transition($transition, $ease: 'ease') {
+    -moz-transition:    all $transition unquote($ease);
+    -o-transition:      all $transition unquote($ease);
+    -webkit-transition: all $transition unquote($ease);
+    -ms-transition: 		all $transition unquote($ease);
+    transition:         all $transition unquote($ease);
+}
+@mixin inline-block() {
+	display:-moz-inline-stack;
+	display:inline-block;
+	zoom:1;
+	*display:inline;
+}
+@mixin border-radius($radius) {
+  -webkit-border-radius: $radius;
+     -moz-border-radius: $radius;
+      -ms-border-radius: $radius;
+          border-radius: $radius;
+}
+@mixin box-shadow-none() {
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	-o-box-shadow: none;
+	box-shadow: none;
+}
+
+
+/* =======================================================
+*
+* 	Template Style 
+*	Edit this section
+*
+* ======================================================= */
+
+// Template Base
+html, body {
+	margin: 0;
+	width: 100%;
+	height: 100%;
+	overflow-x: hidden;
+}
+body {
+	font-family: $font-primary;
+	line-height: 1.5;
+	font-size: 16px;
+	color: #000;
+}
+a {
+	color: $brand-primary;
+	@include transition(.3s);
+	&:hover {
+		color: darken($brand-primary, 10%);
+	}
+}
+
+.fh5co-container {
+	margin-top: 50px;
+}
+.overlay {
+	background: url(../images/404.svg) no-repeat center center;
+	background-size: cover;
+	width:100%;
+	height:100%;
+	position: absolute;
+	top:0;
+	left:0;
+	bottom:0;
+	right:0;
+	padding-left: 30px;
+	padding-right: 30px;
+	z-index: 2;
+	&:after, &:before {
+		content: "";
+		background: $brand-white;
+		height: 100%;
+		top: 0;
+		position: absolute;
+		height: 100%;
+		z-index: 10;
+		width: 20px;
+	}
+	&:before {
+		left: 0;
+	}
+	&:after {
+		right: 0;
+	}
+}
+#video {
+	position: relative;
+	height: 500px;
+	width: 100%;
+	@media screen and (max-width: $screen-sm) {
+		height: 400px;
+	}
+	@media screen and (max-width: $screen-xs) {
+		height: 200px;
+	}
+}
+.fh5co-404-text {
+	h2 {
+		margin-bottom: 30px;
+		@media screen and (max-width: $screen-xs) {
+			font-size: 18px;
+		}
+	}
+}
+.fh5co-copyright {
+	margin-top: 50px;
+}
+
+.btn-primary {
+	border: none;
+	background: $brand-primary;
+	color: $brand-white;
+	padding: 10px 20px;
+	font-size: 18px;
+	&:hover, &:active, &:focus {
+		background: lighten($brand-primary, 10%)!important;
+	}
+	
+}
+
+.animate-box {
+	.js & {
+		opacity: 0;
+	}
+}
