@@ -1,58 +1,11 @@
-[2017-12-07 17:16:00.785] [INFO] asgc - loadViews ...
-[2017-12-07 17:16:00.785] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/view/a.html
-[2017-12-07 17:16:00.785] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/view/index.html
-[2017-12-07 17:16:00.785] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/view/test1.html
-[2017-12-07 17:16:00.785] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/view/WEB-INF/a.html
-[2017-12-07 17:16:00.785] [INFO] asgc - loadViews finished.
-[2017-12-07 17:16:00.785] [INFO] asgc - loadProjectRouter ...
-[2017-12-07 17:16:00.785] [INFO] asgc - loadProjectRouter finished.
-[2017-12-07 17:16:00.785] [INFO] asgc - loadDefaultRouter ...
-[2017-12-07 17:16:00.785] [INFO] asgc - loadDefaultRouter finished.
-[2017-12-07 17:16:00.785] [INFO] asgc - router: /hello /hello
-[2017-12-07 17:16:00.785] [INFO] asgc - router: /test1 /test1
-[2017-12-07 17:16:00.785] [INFO] asgc - router: /test2 /test2
-[2017-12-07 17:16:00.785] [INFO] asgc - router: /test3 /test3
-[2017-12-07 17:16:00.785] [INFO] asgc - router: /test4 /test4
-[2017-12-07 17:16:00.785] [INFO] asgc - router: /a /a
-[2017-12-07 17:16:00.785] [INFO] asgc - router: /b /b
-[2017-12-07 17:16:00.785] [INFO] asgc - router: www www
-[2017-12-07 17:16:00.785] [INFO] asgc - router: /testadd /testadd
-[2017-12-07 17:16:00.785] [INFO] asgc - router: /testsub /testsub
-[2017-12-07 17:16:00.785] [INFO] asgc - router: /welcome www
-[2017-12-07 17:16:00.785] [INFO] asgc - router: /aa /WEB-INF/a.html
-[2017-12-07 17:16:00.785] [INFO] asgc - router: /_pages/404.html D:/myspace/npm/asgc-web/pages/404.html
-[2017-12-07 17:16:00.785] [INFO] asgc - router: /_pages/css/animate.css D:/myspace/npm/asgc-web/pages/css/animate.css
-[2017-12-07 17:16:00.785] [INFO] asgc - router: /_pages/css/bootstrap.min.css D:/myspace/npm/asgc-web/pages/css/bootstrap.min.css
-[2017-12-07 17:16:00.785] [INFO] asgc - router: /_pages/css/style.css D:/myspace/npm/asgc-web/pages/css/style.css
-[2017-12-07 17:16:00.785] [INFO] asgc - router: /_pages/css/style.css.map D:/myspace/npm/asgc-web/pages/css/style.css.map
-[2017-12-07 17:16:00.785] [INFO] asgc - router: /_pages/favicon.ico D:/myspace/npm/asgc-web/pages/favicon.ico
-[2017-12-07 17:16:00.785] [INFO] asgc - router: /_pages/fonts/bootstrap/glyphicons-halflings-regular.eot D:/myspace/npm/asgc-web/pages/fonts/bootstrap/glyphicons-halflings-regular.eot
-[2017-12-07 17:16:00.785] [INFO] asgc - router: /_pages/fonts/bootstrap/glyphicons-halflings-regular.svg D:/myspace/npm/asgc-web/pages/fonts/bootstrap/glyphicons-halflings-regular.svg
-[2017-12-07 17:16:00.785] [INFO] asgc - router: /_pages/fonts/bootstrap/glyphicons-halflings-regular.ttf D:/myspace/npm/asgc-web/pages/fonts/bootstrap/glyphicons-halflings-regular.ttf
-[2017-12-07 17:16:00.785] [INFO] asgc - router: /_pages/fonts/bootstrap/glyphicons-halflings-regular.woff D:/myspace/npm/asgc-web/pages/fonts/bootstrap/glyphicons-halflings-regular.woff
-[2017-12-07 17:16:00.800] [INFO] asgc - router: /_pages/fonts/bootstrap/glyphicons-halflings-regular.woff2 D:/myspace/npm/asgc-web/pages/fonts/bootstrap/glyphicons-halflings-regular.woff2
-[2017-12-07 17:16:00.800] [INFO] asgc - router: /_pages/fonts/icomoon/icomoon.eot D:/myspace/npm/asgc-web/pages/fonts/icomoon/icomoon.eot
-[2017-12-07 17:16:00.800] [INFO] asgc - router: /_pages/fonts/icomoon/icomoon.svg D:/myspace/npm/asgc-web/pages/fonts/icomoon/icomoon.svg
-[2017-12-07 17:16:00.800] [INFO] asgc - router: /_pages/fonts/icomoon/icomoon.ttf D:/myspace/npm/asgc-web/pages/fonts/icomoon/icomoon.ttf
-[2017-12-07 17:16:00.800] [INFO] asgc - router: /_pages/fonts/icomoon/icomoon.woff D:/myspace/npm/asgc-web/pages/fonts/icomoon/icomoon.woff
-[2017-12-07 17:16:00.800] [INFO] asgc - router: /_pages/images/404.svg D:/myspace/npm/asgc-web/pages/images/404.svg
-[2017-12-07 17:16:00.800] [INFO] asgc - router: /_pages/js/bootstrap.min.js D:/myspace/npm/asgc-web/pages/js/bootstrap.min.js
-[2017-12-07 17:16:00.800] [INFO] asgc - router: /_pages/js/jquery.min.js D:/myspace/npm/asgc-web/pages/js/jquery.min.js
-[2017-12-07 17:16:00.800] [INFO] asgc - router: /_pages/js/jquery.vide.min.js D:/myspace/npm/asgc-web/pages/js/jquery.vide.min.js
-[2017-12-07 17:16:00.800] [INFO] asgc - router: /_pages/js/jquery.waypoints.min.js D:/myspace/npm/asgc-web/pages/js/jquery.waypoints.min.js
-[2017-12-07 17:16:00.800] [INFO] asgc - router: /_pages/js/main.js D:/myspace/npm/asgc-web/pages/js/main.js
-[2017-12-07 17:16:00.800] [INFO] asgc - router: /_pages/js/modernizr-2.6.2.min.js D:/myspace/npm/asgc-web/pages/js/modernizr-2.6.2.min.js
-[2017-12-07 17:16:00.800] [INFO] asgc - router: /_pages/js/respond.min.js D:/myspace/npm/asgc-web/pages/js/respond.min.js
-[2017-12-07 17:16:00.800] [INFO] asgc - router: /_pages/sass/style.scss D:/myspace/npm/asgc-web/pages/sass/style.scss
-[2017-12-07 17:16:00.800] [INFO] asgc - router: /a.html D:/myspace/npm/asgc-web/test/01/view/a.html
-[2017-12-07 17:16:00.800] [INFO] asgc - router: /index.html D:/myspace/npm/asgc-web/test/01/view/index.html
-[2017-12-07 17:16:00.800] [INFO] asgc - router: /test1.html D:/myspace/npm/asgc-web/test/01/view/test1.html
-[2017-12-07 17:16:00.800] [INFO] asgc - router: / /index.html
-[2017-12-07 17:16:00.800] [INFO] asgc - router: /favicon.ico D:/myspace/npm/asgc-web/pages/favicon.ico
-[2017-12-07 17:16:00.800] [INFO] asgc - startWebapp ...
-[2017-12-07 17:16:00.800] [INFO] asgc - create server ...
-[2017-12-07 17:16:00.800] [INFO] asgc - startWebapp finished.
-[2017-12-07 17:16:00.800] [INFO] asgc - 
+[2017-12-12 11:13:23.053] [INFO] asgc - router: /index.html D:/myspace/npm/asgc-web/test/01/view/index.html
+[2017-12-12 11:13:23.053] [INFO] asgc - router: /test1.html D:/myspace/npm/asgc-web/test/01/view/test1.html
+[2017-12-12 11:13:23.053] [INFO] asgc - router: / /index.html
+[2017-12-12 11:13:23.053] [INFO] asgc - router: /favicon.ico D:/myspace/npm/asgc-web/pages/favicon.ico
+[2017-12-12 11:13:23.054] [INFO] asgc - startWebapp ...
+[2017-12-12 11:13:23.054] [INFO] asgc - create server ...
+[2017-12-12 11:13:23.056] [INFO] asgc - startWebapp finished.
+[2017-12-12 11:13:23.058] [INFO] asgc - 
               _____     _____     _____ 
     /\       / ____|   / ____|   / ____|
    /  \     | (___    | |  __   | |     
@@ -61,85 +14,125 @@
 /_/    \_\  |_____/    \_____|   \_____|
 
 
-[2017-12-07 17:16:00.800] [INFO] asgc - 启动成功! http://localhost:8088/aa
-[2017-12-07 17:16:01.989] [INFO] asgc - requestParse ... /aa
-[2017-12-07 17:16:01.990] [INFO] asgc - req: { url: '/',
+[2017-12-12 11:13:23.058] [INFO] asgc - 启动成功! http://localhost:8088
+[2017-12-12 11:13:25.867] [INFO] asgc - requestParse ... /hello?a
+[2017-12-12 11:13:25.867] [INFO] asgc - req: { url: '/hello',
   params: {},
   suffix: '',
   method: 'GET',
-  type: 'resource' }
-[2017-12-07 17:16:01.992] [INFO] asgc - requestDispatch ...
-[2017-12-07 17:16:01.992] [INFO] asgc - doView: /
-[2017-12-07 17:16:01.992] [INFO] asgc - renderView: /index.html
-[2017-12-07 17:16:01.993] [INFO] asgc - renderView: D:/myspace/npm/asgc-web/test/01/view/index.html
-[2017-12-07 17:16:02.009] [INFO] asgc - requestParse ... /favicon.ico
-[2017-12-07 17:16:13.378] [INFO] asgc - initService ...
-[2017-12-07 17:16:13.393] [INFO] asgc - init logger
-[2017-12-07 17:16:13.393] [INFO] asgc - init server
-[2017-12-07 17:16:13.393] [INFO] asgc - initService finished.
-[2017-12-07 17:16:13.393] [INFO] asgc - loadActions ...
-[2017-12-07 17:16:13.393] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/action/test1.js
-[2017-12-07 17:16:13.393] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/action/test2.js
-[2017-12-07 17:16:13.393] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/action/test3.js
-[2017-12-07 17:16:13.393] [INFO] asgc - loadActions finished.
-[2017-12-07 17:16:13.393] [INFO] asgc - loadServices ...
-[2017-12-07 17:16:13.393] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/service/test1.js
-[2017-12-07 17:16:13.393] [INFO] asgc - loadServices finished.
-[2017-12-07 17:16:13.393] [INFO] asgc - loadViews ...
-[2017-12-07 17:16:13.393] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/view/a.html
-[2017-12-07 17:16:13.393] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/view/index.html
-[2017-12-07 17:16:13.393] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/view/test1.html
-[2017-12-07 17:16:13.393] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/view/WEB-INF/a.html
-[2017-12-07 17:16:13.393] [INFO] asgc - loadViews finished.
-[2017-12-07 17:16:13.393] [INFO] asgc - loadProjectRouter ...
-[2017-12-07 17:16:13.393] [INFO] asgc - loadProjectRouter finished.
-[2017-12-07 17:16:13.393] [INFO] asgc - loadDefaultRouter ...
-[2017-12-07 17:16:13.393] [INFO] asgc - loadDefaultRouter finished.
-[2017-12-07 17:16:13.393] [INFO] asgc - router: /hello /hello
-[2017-12-07 17:16:13.393] [INFO] asgc - router: /test1 /test1
-[2017-12-07 17:16:13.393] [INFO] asgc - router: /test2 /test2
-[2017-12-07 17:16:13.393] [INFO] asgc - router: /test3 /test3
-[2017-12-07 17:16:13.393] [INFO] asgc - router: /test4 /test4
-[2017-12-07 17:16:13.393] [INFO] asgc - router: /a /a
-[2017-12-07 17:16:13.393] [INFO] asgc - router: /b /b
-[2017-12-07 17:16:13.393] [INFO] asgc - router: www www
-[2017-12-07 17:16:13.393] [INFO] asgc - router: /testadd /testadd
-[2017-12-07 17:16:13.393] [INFO] asgc - router: /testsub /testsub
-[2017-12-07 17:16:13.393] [INFO] asgc - router: /welcome www
-[2017-12-07 17:16:13.393] [INFO] asgc - router: /aa /WEB-INF/a.html
-[2017-12-07 17:16:13.393] [INFO] asgc - router: /_pages/404.html D:/myspace/npm/asgc-web/pages/404.html
-[2017-12-07 17:16:13.393] [INFO] asgc - router: /_pages/css/animate.css D:/myspace/npm/asgc-web/pages/css/animate.css
-[2017-12-07 17:16:13.393] [INFO] asgc - router: /_pages/css/bootstrap.min.css D:/myspace/npm/asgc-web/pages/css/bootstrap.min.css
-[2017-12-07 17:16:13.393] [INFO] asgc - router: /_pages/css/style.css D:/myspace/npm/asgc-web/pages/css/style.css
-[2017-12-07 17:16:13.393] [INFO] asgc - router: /_pages/css/style.css.map D:/myspace/npm/asgc-web/pages/css/style.css.map
-[2017-12-07 17:16:13.393] [INFO] asgc - router: /_pages/favicon.ico D:/myspace/npm/asgc-web/pages/favicon.ico
-[2017-12-07 17:16:13.393] [INFO] asgc - router: /_pages/fonts/bootstrap/glyphicons-halflings-regular.eot D:/myspace/npm/asgc-web/pages/fonts/bootstrap/glyphicons-halflings-regular.eot
-[2017-12-07 17:16:13.393] [INFO] asgc - router: /_pages/fonts/bootstrap/glyphicons-halflings-regular.svg D:/myspace/npm/asgc-web/pages/fonts/bootstrap/glyphicons-halflings-regular.svg
-[2017-12-07 17:16:13.393] [INFO] asgc - router: /_pages/fonts/bootstrap/glyphicons-halflings-regular.ttf D:/myspace/npm/asgc-web/pages/fonts/bootstrap/glyphicons-halflings-regular.ttf
-[2017-12-07 17:16:13.393] [INFO] asgc - router: /_pages/fonts/bootstrap/glyphicons-halflings-regular.woff D:/myspace/npm/asgc-web/pages/fonts/bootstrap/glyphicons-halflings-regular.woff
-[2017-12-07 17:16:13.393] [INFO] asgc - router: /_pages/fonts/bootstrap/glyphicons-halflings-regular.woff2 D:/myspace/npm/asgc-web/pages/fonts/bootstrap/glyphicons-halflings-regular.woff2
-[2017-12-07 17:16:13.393] [INFO] asgc - router: /_pages/fonts/icomoon/icomoon.eot D:/myspace/npm/asgc-web/pages/fonts/icomoon/icomoon.eot
-[2017-12-07 17:16:13.393] [INFO] asgc - router: /_pages/fonts/icomoon/icomoon.svg D:/myspace/npm/asgc-web/pages/fonts/icomoon/icomoon.svg
-[2017-12-07 17:16:13.393] [INFO] asgc - router: /_pages/fonts/icomoon/icomoon.ttf D:/myspace/npm/asgc-web/pages/fonts/icomoon/icomoon.ttf
-[2017-12-07 17:16:13.393] [INFO] asgc - router: /_pages/fonts/icomoon/icomoon.woff D:/myspace/npm/asgc-web/pages/fonts/icomoon/icomoon.woff
-[2017-12-07 17:16:13.393] [INFO] asgc - router: /_pages/images/404.svg D:/myspace/npm/asgc-web/pages/images/404.svg
-[2017-12-07 17:16:13.393] [INFO] asgc - router: /_pages/js/bootstrap.min.js D:/myspace/npm/asgc-web/pages/js/bootstrap.min.js
-[2017-12-07 17:16:13.393] [INFO] asgc - router: /_pages/js/jquery.min.js D:/myspace/npm/asgc-web/pages/js/jquery.min.js
-[2017-12-07 17:16:13.393] [INFO] asgc - router: /_pages/js/jquery.vide.min.js D:/myspace/npm/asgc-web/pages/js/jquery.vide.min.js
-[2017-12-07 17:16:13.393] [INFO] asgc - router: /_pages/js/jquery.waypoints.min.js D:/myspace/npm/asgc-web/pages/js/jquery.waypoints.min.js
-[2017-12-07 17:16:13.393] [INFO] asgc - router: /_pages/js/main.js D:/myspace/npm/asgc-web/pages/js/main.js
-[2017-12-07 17:16:13.393] [INFO] asgc - router: /_pages/js/modernizr-2.6.2.min.js D:/myspace/npm/asgc-web/pages/js/modernizr-2.6.2.min.js
-[2017-12-07 17:16:13.393] [INFO] asgc - router: /_pages/js/respond.min.js D:/myspace/npm/asgc-web/pages/js/respond.min.js
-[2017-12-07 17:16:13.393] [INFO] asgc - router: /_pages/sass/style.scss D:/myspace/npm/asgc-web/pages/sass/style.scss
-[2017-12-07 17:16:13.393] [INFO] asgc - router: /a.html D:/myspace/npm/asgc-web/test/01/view/a.html
-[2017-12-07 17:16:13.393] [INFO] asgc - router: /index.html D:/myspace/npm/asgc-web/test/01/view/index.html
-[2017-12-07 17:16:13.393] [INFO] asgc - router: /test1.html D:/myspace/npm/asgc-web/test/01/view/test1.html
-[2017-12-07 17:16:13.393] [INFO] asgc - router: / /index.html
-[2017-12-07 17:16:13.393] [INFO] asgc - router: /favicon.ico D:/myspace/npm/asgc-web/pages/favicon.ico
-[2017-12-07 17:16:13.393] [INFO] asgc - startWebapp ...
-[2017-12-07 17:16:13.393] [INFO] asgc - create server ...
-[2017-12-07 17:16:13.393] [INFO] asgc - startWebapp finished.
-[2017-12-07 17:16:13.409] [INFO] asgc - 
+  type: 'action' }
+[2017-12-12 11:13:25.869] [INFO] asgc - requestDispatch ...
+[2017-12-12 11:13:25.869] [INFO] asgc - doAction: GET /hello {}
+[2017-12-12 11:13:25.870] [INFO] asgc - hello action
+[2017-12-12 11:13:25.870] [INFO] asgc - action return data: hello world !
+[2017-12-12 11:13:25.870] [INFO] asgc - parseModelAndView: hello world !
+[2017-12-12 11:13:25.870] [INFO] asgc - renderData: hello world !
+[2017-12-12 11:13:25.887] [INFO] asgc - requestParse ... /favicon.ico
+[2017-12-12 11:13:25.887] [INFO] asgc - doView: /favicon.ico
+[2017-12-12 11:13:25.887] [INFO] asgc - renderView: D:/myspace/npm/asgc-web/pages/favicon.ico
+[2017-12-12 11:13:36.513] [INFO] asgc - requestParse ... /hello?a=1
+[2017-12-12 11:13:36.513] [INFO] asgc - req: { url: '/hello',
+  params: {},
+  suffix: '',
+  method: 'GET',
+  type: 'action' }
+[2017-12-12 11:13:36.513] [INFO] asgc - requestDispatch ...
+[2017-12-12 11:13:36.514] [INFO] asgc - doAction: GET /hello {}
+[2017-12-12 11:13:36.514] [INFO] asgc - hello action
+[2017-12-12 11:13:36.514] [INFO] asgc - action return data: hello world !
+[2017-12-12 11:13:36.515] [INFO] asgc - parseModelAndView: hello world !
+[2017-12-12 11:13:36.515] [INFO] asgc - renderData: hello world !
+[2017-12-12 11:13:47.159] [INFO] asgc - requestParse ... /hello?a=1&b=2\
+[2017-12-12 11:13:47.159] [INFO] asgc - req: { url: '/hello',
+  params: {},
+  suffix: '',
+  method: 'GET',
+  type: 'action' }
+[2017-12-12 11:13:47.159] [INFO] asgc - requestDispatch ...
+[2017-12-12 11:13:47.159] [INFO] asgc - doAction: GET /hello {}
+[2017-12-12 11:13:47.160] [INFO] asgc - hello action
+[2017-12-12 11:13:47.160] [INFO] asgc - action return data: hello world !
+[2017-12-12 11:13:47.160] [INFO] asgc - parseModelAndView: hello world !
+[2017-12-12 11:13:47.160] [INFO] asgc - renderData: hello world !
+[2017-12-12 11:13:49.575] [INFO] asgc - requestParse ... /hello?a=1&b=2
+[2017-12-12 11:13:49.575] [INFO] asgc - req: { url: '/hello',
+  params: {},
+  suffix: '',
+  method: 'GET',
+  type: 'action' }
+[2017-12-12 11:13:49.576] [INFO] asgc - requestDispatch ...
+[2017-12-12 11:13:49.576] [INFO] asgc - doAction: GET /hello {}
+[2017-12-12 11:13:49.576] [INFO] asgc - hello action
+[2017-12-12 11:13:49.576] [INFO] asgc - action return data: hello world !
+[2017-12-12 11:13:49.576] [INFO] asgc - parseModelAndView: hello world !
+[2017-12-12 11:13:49.576] [INFO] asgc - renderData: hello world !
+[2017-12-12 11:14:41.011] [INFO] asgc - initService ...
+[2017-12-12 11:14:41.014] [INFO] asgc - init logger
+[2017-12-12 11:14:41.014] [INFO] asgc - init server
+[2017-12-12 11:14:41.014] [INFO] asgc - initService finished.
+[2017-12-12 11:14:41.015] [INFO] asgc - loadActions ...
+[2017-12-12 11:14:41.015] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/action/test1.js
+[2017-12-12 11:14:41.016] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/action/test2.js
+[2017-12-12 11:14:41.016] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/action/test3.js
+[2017-12-12 11:14:41.017] [INFO] asgc - loadActions finished.
+[2017-12-12 11:14:41.017] [INFO] asgc - loadServices ...
+[2017-12-12 11:14:41.017] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/service/test1.js
+[2017-12-12 11:14:41.018] [INFO] asgc - loadServices finished.
+[2017-12-12 11:14:41.018] [INFO] asgc - loadViews ...
+[2017-12-12 11:14:41.019] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/view/a.html
+[2017-12-12 11:14:41.019] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/view/index.html
+[2017-12-12 11:14:41.020] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/view/test1.html
+[2017-12-12 11:14:41.020] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/view/WEB-INF/a.html
+[2017-12-12 11:14:41.020] [INFO] asgc - loadViews finished.
+[2017-12-12 11:14:41.020] [INFO] asgc - loadProjectRouter ...
+[2017-12-12 11:14:41.020] [INFO] asgc - loadProjectRouter finished.
+[2017-12-12 11:14:41.020] [INFO] asgc - loadDefaultRouter ...
+[2017-12-12 11:14:41.021] [INFO] asgc - loadDefaultRouter finished.
+[2017-12-12 11:14:41.021] [INFO] asgc - router: /hello /hello
+[2017-12-12 11:14:41.021] [INFO] asgc - router: /test1 /test1
+[2017-12-12 11:14:41.022] [INFO] asgc - router: /test2 /test2
+[2017-12-12 11:14:41.022] [INFO] asgc - router: /test3 /test3
+[2017-12-12 11:14:41.022] [INFO] asgc - router: /test4 /test4
+[2017-12-12 11:14:41.022] [INFO] asgc - router: /a /a
+[2017-12-12 11:14:41.022] [INFO] asgc - router: /b /b
+[2017-12-12 11:14:41.022] [INFO] asgc - router: www www
+[2017-12-12 11:14:41.022] [INFO] asgc - router: /testadd /testadd
+[2017-12-12 11:14:41.023] [INFO] asgc - router: /testsub /testsub
+[2017-12-12 11:14:41.023] [INFO] asgc - router: /welcome www
+[2017-12-12 11:14:41.024] [INFO] asgc - router: /aa /WEB-INF/a.html
+[2017-12-12 11:14:41.024] [INFO] asgc - router: /_pages/404.html D:/myspace/npm/asgc-web/pages/404.html
+[2017-12-12 11:14:41.024] [INFO] asgc - router: /_pages/css/animate.css D:/myspace/npm/asgc-web/pages/css/animate.css
+[2017-12-12 11:14:41.024] [INFO] asgc - router: /_pages/css/bootstrap.min.css D:/myspace/npm/asgc-web/pages/css/bootstrap.min.css
+[2017-12-12 11:14:41.024] [INFO] asgc - router: /_pages/css/style.css D:/myspace/npm/asgc-web/pages/css/style.css
+[2017-12-12 11:14:41.025] [INFO] asgc - router: /_pages/css/style.css.map D:/myspace/npm/asgc-web/pages/css/style.css.map
+[2017-12-12 11:14:41.025] [INFO] asgc - router: /_pages/favicon.ico D:/myspace/npm/asgc-web/pages/favicon.ico
+[2017-12-12 11:14:41.025] [INFO] asgc - router: /_pages/fonts/bootstrap/glyphicons-halflings-regular.eot D:/myspace/npm/asgc-web/pages/fonts/bootstrap/glyphicons-halflings-regular.eot
+[2017-12-12 11:14:41.025] [INFO] asgc - router: /_pages/fonts/bootstrap/glyphicons-halflings-regular.svg D:/myspace/npm/asgc-web/pages/fonts/bootstrap/glyphicons-halflings-regular.svg
+[2017-12-12 11:14:41.025] [INFO] asgc - router: /_pages/fonts/bootstrap/glyphicons-halflings-regular.ttf D:/myspace/npm/asgc-web/pages/fonts/bootstrap/glyphicons-halflings-regular.ttf
+[2017-12-12 11:14:41.025] [INFO] asgc - router: /_pages/fonts/bootstrap/glyphicons-halflings-regular.woff D:/myspace/npm/asgc-web/pages/fonts/bootstrap/glyphicons-halflings-regular.woff
+[2017-12-12 11:14:41.025] [INFO] asgc - router: /_pages/fonts/bootstrap/glyphicons-halflings-regular.woff2 D:/myspace/npm/asgc-web/pages/fonts/bootstrap/glyphicons-halflings-regular.woff2
+[2017-12-12 11:14:41.025] [INFO] asgc - router: /_pages/fonts/icomoon/icomoon.eot D:/myspace/npm/asgc-web/pages/fonts/icomoon/icomoon.eot
+[2017-12-12 11:14:41.025] [INFO] asgc - router: /_pages/fonts/icomoon/icomoon.svg D:/myspace/npm/asgc-web/pages/fonts/icomoon/icomoon.svg
+[2017-12-12 11:14:41.025] [INFO] asgc - router: /_pages/fonts/icomoon/icomoon.ttf D:/myspace/npm/asgc-web/pages/fonts/icomoon/icomoon.ttf
+[2017-12-12 11:14:41.025] [INFO] asgc - router: /_pages/fonts/icomoon/icomoon.woff D:/myspace/npm/asgc-web/pages/fonts/icomoon/icomoon.woff
+[2017-12-12 11:14:41.026] [INFO] asgc - router: /_pages/images/404.svg D:/myspace/npm/asgc-web/pages/images/404.svg
+[2017-12-12 11:14:41.026] [INFO] asgc - router: /_pages/js/bootstrap.min.js D:/myspace/npm/asgc-web/pages/js/bootstrap.min.js
+[2017-12-12 11:14:41.026] [INFO] asgc - router: /_pages/js/jquery.min.js D:/myspace/npm/asgc-web/pages/js/jquery.min.js
+[2017-12-12 11:14:41.026] [INFO] asgc - router: /_pages/js/jquery.vide.min.js D:/myspace/npm/asgc-web/pages/js/jquery.vide.min.js
+[2017-12-12 11:14:41.026] [INFO] asgc - router: /_pages/js/jquery.waypoints.min.js D:/myspace/npm/asgc-web/pages/js/jquery.waypoints.min.js
+[2017-12-12 11:14:41.026] [INFO] asgc - router: /_pages/js/main.js D:/myspace/npm/asgc-web/pages/js/main.js
+[2017-12-12 11:14:41.026] [INFO] asgc - router: /_pages/js/modernizr-2.6.2.min.js D:/myspace/npm/asgc-web/pages/js/modernizr-2.6.2.min.js
+[2017-12-12 11:14:41.026] [INFO] asgc - router: /_pages/js/respond.min.js D:/myspace/npm/asgc-web/pages/js/respond.min.js
+[2017-12-12 11:14:41.026] [INFO] asgc - router: /_pages/sass/style.scss D:/myspace/npm/asgc-web/pages/sass/style.scss
+[2017-12-12 11:14:41.027] [INFO] asgc - router: /a.html D:/myspace/npm/asgc-web/test/01/view/a.html
+[2017-12-12 11:14:41.027] [INFO] asgc - router: /index.html D:/myspace/npm/asgc-web/test/01/view/index.html
+[2017-12-12 11:14:41.027] [INFO] asgc - router: /test1.html D:/myspace/npm/asgc-web/test/01/view/test1.html
+[2017-12-12 11:14:41.027] [INFO] asgc - router: / /index.html
+[2017-12-12 11:14:41.027] [INFO] asgc - router: /favicon.ico D:/myspace/npm/asgc-web/pages/favicon.ico
+[2017-12-12 11:14:41.027] [INFO] asgc - startWebapp ...
+[2017-12-12 11:14:41.028] [INFO] asgc - create server ...
+[2017-12-12 11:14:41.030] [INFO] asgc - startWebapp finished.
+[2017-12-12 11:14:41.030] [INFO] asgc - 
               _____     _____     _____ 
     /\       / ____|   / ____|   / ____|
    /  \     | (___    | |  __   | |     
@@ -148,107 +141,89 @@
 /_/    \_\  |_____/    \_____|   \_____|
 
 
-[2017-12-07 17:16:13.409] [INFO] asgc - 启动成功! http://localhost:8088/aa
-[2017-12-07 17:16:15.625] [INFO] asgc - requestParse ... /aa
-[2017-12-07 17:16:15.626] [INFO] asgc - req: { url: '/',
+[2017-12-12 11:14:41.030] [INFO] asgc - 启动成功! http://localhost:8088
+[2017-12-12 11:14:42.869] [INFO] asgc - requestParse ... /hello?a=1&b=2
+[2017-12-12 11:14:42.869] [INFO] asgc - req: { url: '/hello',
   params: {},
   suffix: '',
   method: 'GET',
-  type: 'resource' }
-[2017-12-07 17:16:15.628] [INFO] asgc - requestDispatch ...
-[2017-12-07 17:16:15.628] [INFO] asgc - doView: /
-[2017-12-07 17:16:15.628] [INFO] asgc - renderView: /index.html
-[2017-12-07 17:16:15.628] [INFO] asgc - renderView: D:/myspace/npm/asgc-web/test/01/view/index.html
-[2017-12-07 17:16:15.646] [INFO] asgc - requestParse ... /favicon.ico
-[2017-12-07 17:16:15.647] [INFO] asgc - doView: /favicon.ico
-[2017-12-07 17:16:15.647] [INFO] asgc - renderView: D:/myspace/npm/asgc-web/pages/favicon.ico
-[2017-12-07 17:16:24.121] [INFO] asgc - requestParse ... /aa
-[2017-12-07 17:16:24.122] [INFO] asgc - req: { url: '/',
-  params: {},
-  suffix: '',
-  method: 'GET',
-  type: 'resource' }
-[2017-12-07 17:16:24.122] [INFO] asgc - requestDispatch ...
-[2017-12-07 17:16:24.123] [INFO] asgc - doView: /
-[2017-12-07 17:16:24.123] [INFO] asgc - renderView: /index.html
-[2017-12-07 17:16:24.123] [INFO] asgc - renderView: D:/myspace/npm/asgc-web/test/01/view/index.html
-[2017-12-07 17:16:24.634] [INFO] asgc - requestParse ... /aa
-[2017-12-07 17:16:24.634] [INFO] asgc - req: { url: '/',
-  params: {},
-  suffix: '',
-  method: 'GET',
-  type: 'resource' }
-[2017-12-07 17:16:24.634] [INFO] asgc - requestDispatch ...
-[2017-12-07 17:16:24.634] [INFO] asgc - doView: /
-[2017-12-07 17:16:24.635] [INFO] asgc - renderView: /index.html
-[2017-12-07 17:16:24.635] [INFO] asgc - renderView: D:/myspace/npm/asgc-web/test/01/view/index.html
-[2017-12-07 17:16:38.731] [INFO] asgc - initService ...
-[2017-12-07 17:16:38.731] [INFO] asgc - init logger
-[2017-12-07 17:16:38.731] [INFO] asgc - init server
-[2017-12-07 17:16:38.731] [INFO] asgc - initService finished.
-[2017-12-07 17:16:38.731] [INFO] asgc - loadActions ...
-[2017-12-07 17:16:38.731] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/action/test1.js
-[2017-12-07 17:16:38.731] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/action/test2.js
-[2017-12-07 17:16:38.731] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/action/test3.js
-[2017-12-07 17:16:38.731] [INFO] asgc - loadActions finished.
-[2017-12-07 17:16:38.746] [INFO] asgc - loadServices ...
-[2017-12-07 17:16:38.746] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/service/test1.js
-[2017-12-07 17:16:38.746] [INFO] asgc - loadServices finished.
-[2017-12-07 17:16:38.746] [INFO] asgc - loadViews ...
-[2017-12-07 17:16:38.746] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/view/a.html
-[2017-12-07 17:16:38.746] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/view/index.html
-[2017-12-07 17:16:38.746] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/view/test1.html
-[2017-12-07 17:16:38.746] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/view/WEB-INF/a.html
-[2017-12-07 17:16:38.746] [INFO] asgc - loadViews finished.
-[2017-12-07 17:16:38.746] [INFO] asgc - loadProjectRouter ...
-[2017-12-07 17:16:38.746] [INFO] asgc - loadProjectRouter finished.
-[2017-12-07 17:16:38.746] [INFO] asgc - loadDefaultRouter ...
-[2017-12-07 17:16:38.746] [INFO] asgc - loadDefaultRouter finished.
-[2017-12-07 17:16:38.746] [INFO] asgc - router: /hello /hello
-[2017-12-07 17:16:38.746] [INFO] asgc - router: /test1 /test1
-[2017-12-07 17:16:38.746] [INFO] asgc - router: /test2 /test2
-[2017-12-07 17:16:38.746] [INFO] asgc - router: /test3 /test3
-[2017-12-07 17:16:38.746] [INFO] asgc - router: /test4 /test4
-[2017-12-07 17:16:38.746] [INFO] asgc - router: /a /a
-[2017-12-07 17:16:38.746] [INFO] asgc - router: /b /b
-[2017-12-07 17:16:38.746] [INFO] asgc - router: www www
-[2017-12-07 17:16:38.746] [INFO] asgc - router: /testadd /testadd
-[2017-12-07 17:16:38.746] [INFO] asgc - router: /testsub /testsub
-[2017-12-07 17:16:38.746] [INFO] asgc - router: /welcome www
-[2017-12-07 17:16:38.746] [INFO] asgc - router: /aa /WEB-INF/a.html
-[2017-12-07 17:16:38.746] [INFO] asgc - router: /_pages/404.html D:/myspace/npm/asgc-web/pages/404.html
-[2017-12-07 17:16:38.746] [INFO] asgc - router: /_pages/css/animate.css D:/myspace/npm/asgc-web/pages/css/animate.css
-[2017-12-07 17:16:38.746] [INFO] asgc - router: /_pages/css/bootstrap.min.css D:/myspace/npm/asgc-web/pages/css/bootstrap.min.css
-[2017-12-07 17:16:38.746] [INFO] asgc - router: /_pages/css/style.css D:/myspace/npm/asgc-web/pages/css/style.css
-[2017-12-07 17:16:38.746] [INFO] asgc - router: /_pages/css/style.css.map D:/myspace/npm/asgc-web/pages/css/style.css.map
-[2017-12-07 17:16:38.746] [INFO] asgc - router: /_pages/favicon.ico D:/myspace/npm/asgc-web/pages/favicon.ico
-[2017-12-07 17:16:38.746] [INFO] asgc - router: /_pages/fonts/bootstrap/glyphicons-halflings-regular.eot D:/myspace/npm/asgc-web/pages/fonts/bootstrap/glyphicons-halflings-regular.eot
-[2017-12-07 17:16:38.746] [INFO] asgc - router: /_pages/fonts/bootstrap/glyphicons-halflings-regular.svg D:/myspace/npm/asgc-web/pages/fonts/bootstrap/glyphicons-halflings-regular.svg
-[2017-12-07 17:16:38.746] [INFO] asgc - router: /_pages/fonts/bootstrap/glyphicons-halflings-regular.ttf D:/myspace/npm/asgc-web/pages/fonts/bootstrap/glyphicons-halflings-regular.ttf
-[2017-12-07 17:16:38.746] [INFO] asgc - router: /_pages/fonts/bootstrap/glyphicons-halflings-regular.woff D:/myspace/npm/asgc-web/pages/fonts/bootstrap/glyphicons-halflings-regular.woff
-[2017-12-07 17:16:38.746] [INFO] asgc - router: /_pages/fonts/bootstrap/glyphicons-halflings-regular.woff2 D:/myspace/npm/asgc-web/pages/fonts/bootstrap/glyphicons-halflings-regular.woff2
-[2017-12-07 17:16:38.746] [INFO] asgc - router: /_pages/fonts/icomoon/icomoon.eot D:/myspace/npm/asgc-web/pages/fonts/icomoon/icomoon.eot
-[2017-12-07 17:16:38.746] [INFO] asgc - router: /_pages/fonts/icomoon/icomoon.svg D:/myspace/npm/asgc-web/pages/fonts/icomoon/icomoon.svg
-[2017-12-07 17:16:38.746] [INFO] asgc - router: /_pages/fonts/icomoon/icomoon.ttf D:/myspace/npm/asgc-web/pages/fonts/icomoon/icomoon.ttf
-[2017-12-07 17:16:38.746] [INFO] asgc - router: /_pages/fonts/icomoon/icomoon.woff D:/myspace/npm/asgc-web/pages/fonts/icomoon/icomoon.woff
-[2017-12-07 17:16:38.746] [INFO] asgc - router: /_pages/images/404.svg D:/myspace/npm/asgc-web/pages/images/404.svg
-[2017-12-07 17:16:38.746] [INFO] asgc - router: /_pages/js/bootstrap.min.js D:/myspace/npm/asgc-web/pages/js/bootstrap.min.js
-[2017-12-07 17:16:38.746] [INFO] asgc - router: /_pages/js/jquery.min.js D:/myspace/npm/asgc-web/pages/js/jquery.min.js
-[2017-12-07 17:16:38.746] [INFO] asgc - router: /_pages/js/jquery.vide.min.js D:/myspace/npm/asgc-web/pages/js/jquery.vide.min.js
-[2017-12-07 17:16:38.746] [INFO] asgc - router: /_pages/js/jquery.waypoints.min.js D:/myspace/npm/asgc-web/pages/js/jquery.waypoints.min.js
-[2017-12-07 17:16:38.746] [INFO] asgc - router: /_pages/js/main.js D:/myspace/npm/asgc-web/pages/js/main.js
-[2017-12-07 17:16:38.746] [INFO] asgc - router: /_pages/js/modernizr-2.6.2.min.js D:/myspace/npm/asgc-web/pages/js/modernizr-2.6.2.min.js
-[2017-12-07 17:16:38.746] [INFO] asgc - router: /_pages/js/respond.min.js D:/myspace/npm/asgc-web/pages/js/respond.min.js
-[2017-12-07 17:16:38.746] [INFO] asgc - router: /_pages/sass/style.scss D:/myspace/npm/asgc-web/pages/sass/style.scss
-[2017-12-07 17:16:38.746] [INFO] asgc - router: /a.html D:/myspace/npm/asgc-web/test/01/view/a.html
-[2017-12-07 17:16:38.746] [INFO] asgc - router: /index.html D:/myspace/npm/asgc-web/test/01/view/index.html
-[2017-12-07 17:16:38.746] [INFO] asgc - router: /test1.html D:/myspace/npm/asgc-web/test/01/view/test1.html
-[2017-12-07 17:16:38.746] [INFO] asgc - router: / /index.html
-[2017-12-07 17:16:38.746] [INFO] asgc - router: /favicon.ico D:/myspace/npm/asgc-web/pages/favicon.ico
-[2017-12-07 17:16:38.746] [INFO] asgc - startWebapp ...
-[2017-12-07 17:16:38.746] [INFO] asgc - create server ...
-[2017-12-07 17:16:38.746] [INFO] asgc - startWebapp finished.
-[2017-12-07 17:16:38.746] [INFO] asgc - 
+  type: 'action' }
+[2017-12-12 11:14:42.872] [INFO] asgc - requestDispatch ...
+[2017-12-12 11:14:42.872] [INFO] asgc - doAction: GET /hello {}
+[2017-12-12 11:14:42.872] [INFO] asgc - hello action
+[2017-12-12 11:14:42.872] [INFO] asgc - action return data: hello world !
+[2017-12-12 11:14:42.872] [INFO] asgc - parseModelAndView: hello world !
+[2017-12-12 11:14:42.873] [INFO] asgc - renderData: hello world !
+[2017-12-12 11:14:42.887] [INFO] asgc - requestParse ... /favicon.ico
+[2017-12-12 11:14:42.888] [INFO] asgc - doView: /favicon.ico
+[2017-12-12 11:14:42.889] [INFO] asgc - renderView: D:/myspace/npm/asgc-web/pages/favicon.ico
+[2017-12-12 11:16:18.134] [INFO] asgc - initService ...
+[2017-12-12 11:16:18.137] [INFO] asgc - init logger
+[2017-12-12 11:16:18.138] [INFO] asgc - init server
+[2017-12-12 11:16:18.138] [INFO] asgc - initService finished.
+[2017-12-12 11:16:18.138] [INFO] asgc - loadActions ...
+[2017-12-12 11:16:18.138] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/action/test1.js
+[2017-12-12 11:16:18.140] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/action/test2.js
+[2017-12-12 11:16:18.140] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/action/test3.js
+[2017-12-12 11:16:18.140] [INFO] asgc - loadActions finished.
+[2017-12-12 11:16:18.141] [INFO] asgc - loadServices ...
+[2017-12-12 11:16:18.141] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/service/test1.js
+[2017-12-12 11:16:18.141] [INFO] asgc - loadServices finished.
+[2017-12-12 11:16:18.142] [INFO] asgc - loadViews ...
+[2017-12-12 11:16:18.142] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/view/a.html
+[2017-12-12 11:16:18.144] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/view/index.html
+[2017-12-12 11:16:18.144] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/view/test1.html
+[2017-12-12 11:16:18.145] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/view/WEB-INF/a.html
+[2017-12-12 11:16:18.145] [INFO] asgc - loadViews finished.
+[2017-12-12 11:16:18.145] [INFO] asgc - loadProjectRouter ...
+[2017-12-12 11:16:18.145] [INFO] asgc - loadProjectRouter finished.
+[2017-12-12 11:16:18.145] [INFO] asgc - loadDefaultRouter ...
+[2017-12-12 11:16:18.146] [INFO] asgc - loadDefaultRouter finished.
+[2017-12-12 11:16:18.146] [INFO] asgc - router: /hello /hello
+[2017-12-12 11:16:18.146] [INFO] asgc - router: /test1 /test1
+[2017-12-12 11:16:18.146] [INFO] asgc - router: /test2 /test2
+[2017-12-12 11:16:18.146] [INFO] asgc - router: /test3 /test3
+[2017-12-12 11:16:18.146] [INFO] asgc - router: /test4 /test4
+[2017-12-12 11:16:18.146] [INFO] asgc - router: /a /a
+[2017-12-12 11:16:18.146] [INFO] asgc - router: /b /b
+[2017-12-12 11:16:18.146] [INFO] asgc - router: www www
+[2017-12-12 11:16:18.146] [INFO] asgc - router: /testadd /testadd
+[2017-12-12 11:16:18.146] [INFO] asgc - router: /testsub /testsub
+[2017-12-12 11:16:18.147] [INFO] asgc - router: /welcome www
+[2017-12-12 11:16:18.147] [INFO] asgc - router: /aa /WEB-INF/a.html
+[2017-12-12 11:16:18.147] [INFO] asgc - router: /_pages/404.html D:/myspace/npm/asgc-web/pages/404.html
+[2017-12-12 11:16:18.147] [INFO] asgc - router: /_pages/css/animate.css D:/myspace/npm/asgc-web/pages/css/animate.css
+[2017-12-12 11:16:18.147] [INFO] asgc - router: /_pages/css/bootstrap.min.css D:/myspace/npm/asgc-web/pages/css/bootstrap.min.css
+[2017-12-12 11:16:18.148] [INFO] asgc - router: /_pages/css/style.css D:/myspace/npm/asgc-web/pages/css/style.css
+[2017-12-12 11:16:18.148] [INFO] asgc - router: /_pages/css/style.css.map D:/myspace/npm/asgc-web/pages/css/style.css.map
+[2017-12-12 11:16:18.148] [INFO] asgc - router: /_pages/favicon.ico D:/myspace/npm/asgc-web/pages/favicon.ico
+[2017-12-12 11:16:18.148] [INFO] asgc - router: /_pages/fonts/bootstrap/glyphicons-halflings-regular.eot D:/myspace/npm/asgc-web/pages/fonts/bootstrap/glyphicons-halflings-regular.eot
+[2017-12-12 11:16:18.148] [INFO] asgc - router: /_pages/fonts/bootstrap/glyphicons-halflings-regular.svg D:/myspace/npm/asgc-web/pages/fonts/bootstrap/glyphicons-halflings-regular.svg
+[2017-12-12 11:16:18.148] [INFO] asgc - router: /_pages/fonts/bootstrap/glyphicons-halflings-regular.ttf D:/myspace/npm/asgc-web/pages/fonts/bootstrap/glyphicons-halflings-regular.ttf
+[2017-12-12 11:16:18.148] [INFO] asgc - router: /_pages/fonts/bootstrap/glyphicons-halflings-regular.woff D:/myspace/npm/asgc-web/pages/fonts/bootstrap/glyphicons-halflings-regular.woff
+[2017-12-12 11:16:18.149] [INFO] asgc - router: /_pages/fonts/bootstrap/glyphicons-halflings-regular.woff2 D:/myspace/npm/asgc-web/pages/fonts/bootstrap/glyphicons-halflings-regular.woff2
+[2017-12-12 11:16:18.149] [INFO] asgc - router: /_pages/fonts/icomoon/icomoon.eot D:/myspace/npm/asgc-web/pages/fonts/icomoon/icomoon.eot
+[2017-12-12 11:16:18.149] [INFO] asgc - router: /_pages/fonts/icomoon/icomoon.svg D:/myspace/npm/asgc-web/pages/fonts/icomoon/icomoon.svg
+[2017-12-12 11:16:18.150] [INFO] asgc - router: /_pages/fonts/icomoon/icomoon.ttf D:/myspace/npm/asgc-web/pages/fonts/icomoon/icomoon.ttf
+[2017-12-12 11:16:18.150] [INFO] asgc - router: /_pages/fonts/icomoon/icomoon.woff D:/myspace/npm/asgc-web/pages/fonts/icomoon/icomoon.woff
+[2017-12-12 11:16:18.150] [INFO] asgc - router: /_pages/images/404.svg D:/myspace/npm/asgc-web/pages/images/404.svg
+[2017-12-12 11:16:18.150] [INFO] asgc - router: /_pages/js/bootstrap.min.js D:/myspace/npm/asgc-web/pages/js/bootstrap.min.js
+[2017-12-12 11:16:18.150] [INFO] asgc - router: /_pages/js/jquery.min.js D:/myspace/npm/asgc-web/pages/js/jquery.min.js
+[2017-12-12 11:16:18.150] [INFO] asgc - router: /_pages/js/jquery.vide.min.js D:/myspace/npm/asgc-web/pages/js/jquery.vide.min.js
+[2017-12-12 11:16:18.150] [INFO] asgc - router: /_pages/js/jquery.waypoints.min.js D:/myspace/npm/asgc-web/pages/js/jquery.waypoints.min.js
+[2017-12-12 11:16:18.150] [INFO] asgc - router: /_pages/js/main.js D:/myspace/npm/asgc-web/pages/js/main.js
+[2017-12-12 11:16:18.150] [INFO] asgc - router: /_pages/js/modernizr-2.6.2.min.js D:/myspace/npm/asgc-web/pages/js/modernizr-2.6.2.min.js
+[2017-12-12 11:16:18.150] [INFO] asgc - router: /_pages/js/respond.min.js D:/myspace/npm/asgc-web/pages/js/respond.min.js
+[2017-12-12 11:16:18.150] [INFO] asgc - router: /_pages/sass/style.scss D:/myspace/npm/asgc-web/pages/sass/style.scss
+[2017-12-12 11:16:18.150] [INFO] asgc - router: /a.html D:/myspace/npm/asgc-web/test/01/view/a.html
+[2017-12-12 11:16:18.150] [INFO] asgc - router: /index.html D:/myspace/npm/asgc-web/test/01/view/index.html
+[2017-12-12 11:16:18.151] [INFO] asgc - router: /test1.html D:/myspace/npm/asgc-web/test/01/view/test1.html
+[2017-12-12 11:16:18.151] [INFO] asgc - router: / /index.html
+[2017-12-12 11:16:18.151] [INFO] asgc - router: /favicon.ico D:/myspace/npm/asgc-web/pages/favicon.ico
+[2017-12-12 11:16:18.151] [INFO] asgc - startWebapp ...
+[2017-12-12 11:16:18.151] [INFO] asgc - create server ...
+[2017-12-12 11:16:18.153] [INFO] asgc - startWebapp finished.
+[2017-12-12 11:16:18.154] [INFO] asgc - 
               _____     _____     _____ 
     /\       / ____|   / ____|   / ____|
    /  \     | (___    | |  __   | |     
@@ -257,24 +232,195 @@
 /_/    \_\  |_____/    \_____|   \_____|
 
 
-[2017-12-07 17:16:38.746] [INFO] asgc - 启动成功! http://localhost:8088
-[2017-12-07 17:16:41.588] [INFO] asgc - requestParse ... /aa
-[2017-12-07 17:16:41.589] [INFO] asgc - req: { url: '/aa',
+[2017-12-12 11:16:18.154] [INFO] asgc - 启动成功! http://localhost:8088
+[2017-12-12 11:16:20.339] [INFO] asgc - requestParse ... /hello?a=1&b=2
+[2017-12-12 11:16:20.339] [INFO] asgc - req: { url: '/hello',
   params: {},
   suffix: '',
   method: 'GET',
-  type: 'resource' }
-[2017-12-07 17:16:41.595] [INFO] asgc - requestDispatch ...
-[2017-12-07 17:16:41.595] [INFO] asgc - doView: /aa
-[2017-12-07 17:16:41.595] [INFO] asgc - renderView: /WEB-INF/a.html
-[2017-12-07 17:16:41.596] [INFO] asgc - renderView: D:/myspace/npm/asgc-web/test/01/view/WEB-INF/a.html
-[2017-12-07 17:16:44.789] [INFO] asgc - requestParse ... /
-[2017-12-07 17:16:44.795] [INFO] asgc - req: { url: '/',
-  params: {},
+  type: 'action' }
+[2017-12-12 11:17:46.816] [INFO] asgc - initService ...
+[2017-12-12 11:17:46.820] [INFO] asgc - init logger
+[2017-12-12 11:17:46.820] [INFO] asgc - init server
+[2017-12-12 11:17:46.820] [INFO] asgc - initService finished.
+[2017-12-12 11:17:46.821] [INFO] asgc - loadActions ...
+[2017-12-12 11:17:46.821] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/action/test1.js
+[2017-12-12 11:17:46.822] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/action/test2.js
+[2017-12-12 11:17:46.822] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/action/test3.js
+[2017-12-12 11:17:46.823] [INFO] asgc - loadActions finished.
+[2017-12-12 11:17:46.824] [INFO] asgc - loadServices ...
+[2017-12-12 11:17:46.824] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/service/test1.js
+[2017-12-12 11:17:46.824] [INFO] asgc - loadServices finished.
+[2017-12-12 11:17:46.824] [INFO] asgc - loadViews ...
+[2017-12-12 11:17:46.825] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/view/a.html
+[2017-12-12 11:17:46.825] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/view/index.html
+[2017-12-12 11:17:46.826] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/view/test1.html
+[2017-12-12 11:17:46.826] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/view/WEB-INF/a.html
+[2017-12-12 11:17:46.826] [INFO] asgc - loadViews finished.
+[2017-12-12 11:17:46.826] [INFO] asgc - loadProjectRouter ...
+[2017-12-12 11:17:46.826] [INFO] asgc - loadProjectRouter finished.
+[2017-12-12 11:17:46.827] [INFO] asgc - loadDefaultRouter ...
+[2017-12-12 11:17:46.827] [INFO] asgc - loadDefaultRouter finished.
+[2017-12-12 11:17:46.827] [INFO] asgc - router: /hello /hello
+[2017-12-12 11:17:46.828] [INFO] asgc - router: /test1 /test1
+[2017-12-12 11:17:46.828] [INFO] asgc - router: /test2 /test2
+[2017-12-12 11:17:46.828] [INFO] asgc - router: /test3 /test3
+[2017-12-12 11:17:46.828] [INFO] asgc - router: /test4 /test4
+[2017-12-12 11:17:46.828] [INFO] asgc - router: /a /a
+[2017-12-12 11:17:46.828] [INFO] asgc - router: /b /b
+[2017-12-12 11:17:46.828] [INFO] asgc - router: www www
+[2017-12-12 11:17:46.828] [INFO] asgc - router: /testadd /testadd
+[2017-12-12 11:17:46.831] [INFO] asgc - router: /testsub /testsub
+[2017-12-12 11:17:46.832] [INFO] asgc - router: /welcome www
+[2017-12-12 11:17:46.833] [INFO] asgc - router: /aa /WEB-INF/a.html
+[2017-12-12 11:17:46.833] [INFO] asgc - router: /_pages/404.html D:/myspace/npm/asgc-web/pages/404.html
+[2017-12-12 11:17:46.833] [INFO] asgc - router: /_pages/css/animate.css D:/myspace/npm/asgc-web/pages/css/animate.css
+[2017-12-12 11:17:46.833] [INFO] asgc - router: /_pages/css/bootstrap.min.css D:/myspace/npm/asgc-web/pages/css/bootstrap.min.css
+[2017-12-12 11:17:46.833] [INFO] asgc - router: /_pages/css/style.css D:/myspace/npm/asgc-web/pages/css/style.css
+[2017-12-12 11:17:46.834] [INFO] asgc - router: /_pages/css/style.css.map D:/myspace/npm/asgc-web/pages/css/style.css.map
+[2017-12-12 11:17:46.834] [INFO] asgc - router: /_pages/favicon.ico D:/myspace/npm/asgc-web/pages/favicon.ico
+[2017-12-12 11:17:46.834] [INFO] asgc - router: /_pages/fonts/bootstrap/glyphicons-halflings-regular.eot D:/myspace/npm/asgc-web/pages/fonts/bootstrap/glyphicons-halflings-regular.eot
+[2017-12-12 11:17:46.834] [INFO] asgc - router: /_pages/fonts/bootstrap/glyphicons-halflings-regular.svg D:/myspace/npm/asgc-web/pages/fonts/bootstrap/glyphicons-halflings-regular.svg
+[2017-12-12 11:17:46.834] [INFO] asgc - router: /_pages/fonts/bootstrap/glyphicons-halflings-regular.ttf D:/myspace/npm/asgc-web/pages/fonts/bootstrap/glyphicons-halflings-regular.ttf
+[2017-12-12 11:17:46.834] [INFO] asgc - router: /_pages/fonts/bootstrap/glyphicons-halflings-regular.woff D:/myspace/npm/asgc-web/pages/fonts/bootstrap/glyphicons-halflings-regular.woff
+[2017-12-12 11:17:46.835] [INFO] asgc - router: /_pages/fonts/bootstrap/glyphicons-halflings-regular.woff2 D:/myspace/npm/asgc-web/pages/fonts/bootstrap/glyphicons-halflings-regular.woff2
+[2017-12-12 11:17:46.835] [INFO] asgc - router: /_pages/fonts/icomoon/icomoon.eot D:/myspace/npm/asgc-web/pages/fonts/icomoon/icomoon.eot
+[2017-12-12 11:17:46.835] [INFO] asgc - router: /_pages/fonts/icomoon/icomoon.svg D:/myspace/npm/asgc-web/pages/fonts/icomoon/icomoon.svg
+[2017-12-12 11:17:46.835] [INFO] asgc - router: /_pages/fonts/icomoon/icomoon.ttf D:/myspace/npm/asgc-web/pages/fonts/icomoon/icomoon.ttf
+[2017-12-12 11:17:46.835] [INFO] asgc - router: /_pages/fonts/icomoon/icomoon.woff D:/myspace/npm/asgc-web/pages/fonts/icomoon/icomoon.woff
+[2017-12-12 11:17:46.835] [INFO] asgc - router: /_pages/images/404.svg D:/myspace/npm/asgc-web/pages/images/404.svg
+[2017-12-12 11:17:46.836] [INFO] asgc - router: /_pages/js/bootstrap.min.js D:/myspace/npm/asgc-web/pages/js/bootstrap.min.js
+[2017-12-12 11:17:46.836] [INFO] asgc - router: /_pages/js/jquery.min.js D:/myspace/npm/asgc-web/pages/js/jquery.min.js
+[2017-12-12 11:17:46.836] [INFO] asgc - router: /_pages/js/jquery.vide.min.js D:/myspace/npm/asgc-web/pages/js/jquery.vide.min.js
+[2017-12-12 11:17:46.836] [INFO] asgc - router: /_pages/js/jquery.waypoints.min.js D:/myspace/npm/asgc-web/pages/js/jquery.waypoints.min.js
+[2017-12-12 11:17:46.836] [INFO] asgc - router: /_pages/js/main.js D:/myspace/npm/asgc-web/pages/js/main.js
+[2017-12-12 11:17:46.836] [INFO] asgc - router: /_pages/js/modernizr-2.6.2.min.js D:/myspace/npm/asgc-web/pages/js/modernizr-2.6.2.min.js
+[2017-12-12 11:17:46.836] [INFO] asgc - router: /_pages/js/respond.min.js D:/myspace/npm/asgc-web/pages/js/respond.min.js
+[2017-12-12 11:17:46.836] [INFO] asgc - router: /_pages/sass/style.scss D:/myspace/npm/asgc-web/pages/sass/style.scss
+[2017-12-12 11:17:46.837] [INFO] asgc - router: /a.html D:/myspace/npm/asgc-web/test/01/view/a.html
+[2017-12-12 11:17:46.837] [INFO] asgc - router: /index.html D:/myspace/npm/asgc-web/test/01/view/index.html
+[2017-12-12 11:17:46.837] [INFO] asgc - router: /test1.html D:/myspace/npm/asgc-web/test/01/view/test1.html
+[2017-12-12 11:17:46.837] [INFO] asgc - router: / /index.html
+[2017-12-12 11:17:46.837] [INFO] asgc - router: /favicon.ico D:/myspace/npm/asgc-web/pages/favicon.ico
+[2017-12-12 11:17:46.837] [INFO] asgc - startWebapp ...
+[2017-12-12 11:17:46.837] [INFO] asgc - create server ...
+[2017-12-12 11:17:46.839] [INFO] asgc - startWebapp finished.
+[2017-12-12 11:17:46.840] [INFO] asgc - 
+              _____     _____     _____ 
+    /\       / ____|   / ____|   / ____|
+   /  \     | (___    | |  __   | |     
+  / /\ \     \___ \   | | |_ |  | |     
+ / ____ \    ____) |  | |__| |  | |____ 
+/_/    \_\  |_____/    \_____|   \_____|
+
+
+[2017-12-12 11:17:46.841] [INFO] asgc - 启动成功! http://localhost:8088
+[2017-12-12 11:17:46.871] [INFO] asgc - requestParse ... /hello?a=1&b=2
+[2017-12-12 11:17:46.871] [INFO] asgc - req: { url: '/hello',
+  params: [ a: '1', b: '2' ],
   suffix: '',
-  method: 'GET',
-  type: 'resource' }
-[2017-12-07 17:16:44.796] [INFO] asgc - requestDispatch ...
-[2017-12-07 17:16:44.797] [INFO] asgc - doView: /
-[2017-12-07 17:16:44.797] [INFO] asgc - renderView: /index.html
-[2017-12-07 17:16:44.797] [INFO] asgc - renderView: D:/myspace/npm/asgc-web/test/01/view/index.html
+  method: '',
+  type: 'action' }
+[2017-12-12 11:17:48.967] [INFO] asgc - requestParse ... /hello?a=1&b=2
+[2017-12-12 11:17:48.967] [INFO] asgc - req: { url: '/hello',
+  params: [ a: '1', b: '2' ],
+  suffix: '',
+  method: '',
+  type: 'action' }
+[2017-12-12 11:18:27.793] [INFO] asgc - initService ...
+[2017-12-12 11:18:27.796] [INFO] asgc - init logger
+[2017-12-12 11:18:27.797] [INFO] asgc - init server
+[2017-12-12 11:18:27.797] [INFO] asgc - initService finished.
+[2017-12-12 11:18:27.797] [INFO] asgc - loadActions ...
+[2017-12-12 11:18:27.798] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/action/test1.js
+[2017-12-12 11:18:27.799] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/action/test2.js
+[2017-12-12 11:18:27.799] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/action/test3.js
+[2017-12-12 11:18:27.800] [INFO] asgc - loadActions finished.
+[2017-12-12 11:18:27.800] [INFO] asgc - loadServices ...
+[2017-12-12 11:18:27.800] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/service/test1.js
+[2017-12-12 11:18:27.801] [INFO] asgc - loadServices finished.
+[2017-12-12 11:18:27.801] [INFO] asgc - loadViews ...
+[2017-12-12 11:18:27.801] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/view/a.html
+[2017-12-12 11:18:27.802] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/view/index.html
+[2017-12-12 11:18:27.802] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/view/test1.html
+[2017-12-12 11:18:27.802] [INFO] asgc - load D:/myspace/npm/asgc-web/test/01/view/WEB-INF/a.html
+[2017-12-12 11:18:27.802] [INFO] asgc - loadViews finished.
+[2017-12-12 11:18:27.802] [INFO] asgc - loadProjectRouter ...
+[2017-12-12 11:18:27.803] [INFO] asgc - loadProjectRouter finished.
+[2017-12-12 11:18:27.803] [INFO] asgc - loadDefaultRouter ...
+[2017-12-12 11:18:27.803] [INFO] asgc - loadDefaultRouter finished.
+[2017-12-12 11:18:27.803] [INFO] asgc - router: /hello /hello
+[2017-12-12 11:18:27.803] [INFO] asgc - router: /test1 /test1
+[2017-12-12 11:18:27.803] [INFO] asgc - router: /test2 /test2
+[2017-12-12 11:18:27.804] [INFO] asgc - router: /test3 /test3
+[2017-12-12 11:18:27.804] [INFO] asgc - router: /test4 /test4
+[2017-12-12 11:18:27.804] [INFO] asgc - router: /a /a
+[2017-12-12 11:18:27.804] [INFO] asgc - router: /b /b
+[2017-12-12 11:18:27.805] [INFO] asgc - router: www www
+[2017-12-12 11:18:27.806] [INFO] asgc - router: /testadd /testadd
+[2017-12-12 11:18:27.806] [INFO] asgc - router: /testsub /testsub
+[2017-12-12 11:18:27.806] [INFO] asgc - router: /welcome www
+[2017-12-12 11:18:27.807] [INFO] asgc - router: /aa /WEB-INF/a.html
+[2017-12-12 11:18:27.807] [INFO] asgc - router: /_pages/404.html D:/myspace/npm/asgc-web/pages/404.html
+[2017-12-12 11:18:27.807] [INFO] asgc - router: /_pages/css/animate.css D:/myspace/npm/asgc-web/pages/css/animate.css
+[2017-12-12 11:18:27.807] [INFO] asgc - router: /_pages/css/bootstrap.min.css D:/myspace/npm/asgc-web/pages/css/bootstrap.min.css
+[2017-12-12 11:18:27.808] [INFO] asgc - router: /_pages/css/style.css D:/myspace/npm/asgc-web/pages/css/style.css
+[2017-12-12 11:18:27.808] [INFO] asgc - router: /_pages/css/style.css.map D:/myspace/npm/asgc-web/pages/css/style.css.map
+[2017-12-12 11:18:27.808] [INFO] asgc - router: /_pages/favicon.ico D:/myspace/npm/asgc-web/pages/favicon.ico
+[2017-12-12 11:18:27.808] [INFO] asgc - router: /_pages/fonts/bootstrap/glyphicons-halflings-regular.eot D:/myspace/npm/asgc-web/pages/fonts/bootstrap/glyphicons-halflings-regular.eot
+[2017-12-12 11:18:27.809] [INFO] asgc - router: /_pages/fonts/bootstrap/glyphicons-halflings-regular.svg D:/myspace/npm/asgc-web/pages/fonts/bootstrap/glyphicons-halflings-regular.svg
+[2017-12-12 11:18:27.809] [INFO] asgc - router: /_pages/fonts/bootstrap/glyphicons-halflings-regular.ttf D:/myspace/npm/asgc-web/pages/fonts/bootstrap/glyphicons-halflings-regular.ttf
+[2017-12-12 11:18:27.809] [INFO] asgc - router: /_pages/fonts/bootstrap/glyphicons-halflings-regular.woff D:/myspace/npm/asgc-web/pages/fonts/bootstrap/glyphicons-halflings-regular.woff
+[2017-12-12 11:18:27.810] [INFO] asgc - router: /_pages/fonts/bootstrap/glyphicons-halflings-regular.woff2 D:/myspace/npm/asgc-web/pages/fonts/bootstrap/glyphicons-halflings-regular.woff2
+[2017-12-12 11:18:27.810] [INFO] asgc - router: /_pages/fonts/icomoon/icomoon.eot D:/myspace/npm/asgc-web/pages/fonts/icomoon/icomoon.eot
+[2017-12-12 11:18:27.810] [INFO] asgc - router: /_pages/fonts/icomoon/icomoon.svg D:/myspace/npm/asgc-web/pages/fonts/icomoon/icomoon.svg
+[2017-12-12 11:18:27.810] [INFO] asgc - router: /_pages/fonts/icomoon/icomoon.ttf D:/myspace/npm/asgc-web/pages/fonts/icomoon/icomoon.ttf
+[2017-12-12 11:18:27.810] [INFO] asgc - router: /_pages/fonts/icomoon/icomoon.woff D:/myspace/npm/asgc-web/pages/fonts/icomoon/icomoon.woff
+[2017-12-12 11:18:27.810] [INFO] asgc - router: /_pages/images/404.svg D:/myspace/npm/asgc-web/pages/images/404.svg
+[2017-12-12 11:18:27.810] [INFO] asgc - router: /_pages/js/bootstrap.min.js D:/myspace/npm/asgc-web/pages/js/bootstrap.min.js
+[2017-12-12 11:18:27.810] [INFO] asgc - router: /_pages/js/jquery.min.js D:/myspace/npm/asgc-web/pages/js/jquery.min.js
+[2017-12-12 11:18:27.811] [INFO] asgc - router: /_pages/js/jquery.vide.min.js D:/myspace/npm/asgc-web/pages/js/jquery.vide.min.js
+[2017-12-12 11:18:27.811] [INFO] asgc - router: /_pages/js/jquery.waypoints.min.js D:/myspace/npm/asgc-web/pages/js/jquery.waypoints.min.js
+[2017-12-12 11:18:27.811] [INFO] asgc - router: /_pages/js/main.js D:/myspace/npm/asgc-web/pages/js/main.js
+[2017-12-12 11:18:27.811] [INFO] asgc - router: /_pages/js/modernizr-2.6.2.min.js D:/myspace/npm/asgc-web/pages/js/modernizr-2.6.2.min.js
+[2017-12-12 11:18:27.811] [INFO] asgc - router: /_pages/js/respond.min.js D:/myspace/npm/asgc-web/pages/js/respond.min.js
+[2017-12-12 11:18:27.811] [INFO] asgc - router: /_pages/sass/style.scss D:/myspace/npm/asgc-web/pages/sass/style.scss
+[2017-12-12 11:18:27.811] [INFO] asgc - router: /a.html D:/myspace/npm/asgc-web/test/01/view/a.html
+[2017-12-12 11:18:27.811] [INFO] asgc - router: /index.html D:/myspace/npm/asgc-web/test/01/view/index.html
+[2017-12-12 11:18:27.811] [INFO] asgc - router: /test1.html D:/myspace/npm/asgc-web/test/01/view/test1.html
+[2017-12-12 11:18:27.811] [INFO] asgc - router: / /index.html
+[2017-12-12 11:18:27.812] [INFO] asgc - router: /favicon.ico D:/myspace/npm/asgc-web/pages/favicon.ico
+[2017-12-12 11:18:27.812] [INFO] asgc - startWebapp ...
+[2017-12-12 11:18:27.812] [INFO] asgc - create server ...
+[2017-12-12 11:18:27.815] [INFO] asgc - startWebapp finished.
+[2017-12-12 11:18:27.815] [INFO] asgc - 
+              _____     _____     _____ 
+    /\       / ____|   / ____|   / ____|
+   /  \     | (___    | |  __   | |     
+  / /\ \     \___ \   | | |_ |  | |     
+ / ____ \    ____) |  | |__| |  | |____ 
+/_/    \_\  |_____/    \_____|   \_____|
+
+
+[2017-12-12 11:18:27.815] [INFO] asgc - 启动成功! http://localhost:8088
+[2017-12-12 11:18:29.836] [INFO] asgc - requestParse ... /hello?a=1&b=2
+[2017-12-12 11:18:29.837] [INFO] asgc - req: { url: '/hello',
+  params: [ a: '1', b: '2' ],
+  suffix: '',
+  method: '',
+  type: 'action' }
+[2017-12-12 11:18:29.839] [INFO] asgc - requestDispatch ...
+[2017-12-12 11:18:29.839] [INFO] asgc - doAction:  /hello [ a: '1', b: '2' ]
+[2017-12-12 11:18:29.839] [INFO] asgc - hello action
+[2017-12-12 11:18:29.840] [INFO] asgc - action return data: hello world !
+[2017-12-12 11:18:29.840] [INFO] asgc - parseModelAndView: hello world !
+[2017-12-12 11:18:29.840] [INFO] asgc - renderData: hello world !
+[2017-12-12 11:18:29.854] [INFO] asgc - requestParse ... /favicon.ico
+[2017-12-12 11:18:29.854] [INFO] asgc - doView: /favicon.ico
+[2017-12-12 11:18:29.854] [INFO] asgc - renderView: D:/myspace/npm/asgc-web/pages/favicon.ico
+[2017-12-12 11:18:34.891] [INFO] asgc - requestParse ... /
+[2017-12-12 11:18:34.891] [INFO] asgc - req: { url: '/', params: {}, suffix: '', method: '', type: 'resource' }
+[2017-12-12 11:18:34.892] [INFO] asgc - requestDispatch ...
+[2017-12-12 11:18:34.892] [INFO] asgc - doView: /
+[2017-12-12 11:18:34.892] [INFO] asgc - renderView: /index.html
+[2017-12-12 11:18:34.892] [INFO] asgc - renderView: D:/myspace/npm/asgc-web/test/01/view/index.html

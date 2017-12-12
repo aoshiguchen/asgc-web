@@ -5,6 +5,6 @@ var logger = asgc.use('logger');
 server.defineAction('/forward1',function(){
 
 	console.log('/forward1...');
-	
+	 
 	return 'forward:/hello';
 });
