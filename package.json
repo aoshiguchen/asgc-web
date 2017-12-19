@@ -1,6 +1,6 @@
 {
   "name": "asgc-web",
-  "version": "1.3.4",
+  "version": "1.3.5",
   "description": "asgc-web",
   "main": "index.js",
   "scripts": {

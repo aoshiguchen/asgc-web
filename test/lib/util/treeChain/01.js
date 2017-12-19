@@ -7,6 +7,7 @@ function a(a,b,c){
 
 var loader = chain();
 
-loader.setRoot(a)
+var ret = loader.setRoot(a)
 .invoke(1,2);
 
+console.log(ret);
