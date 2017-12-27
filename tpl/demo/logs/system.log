@@ -1,59 +1,174 @@
-[2017-12-19 10:36:28.442] [INFO] asgc - by url suffix: .html
-[2017-12-19 10:36:28.442] [INFO] asgc - req: { url: '/_pages/404.html',
+[2017-12-26 14:54:12.686] [INFO] asgc - load D:/myspace/npm/asgc-web/tpl/demo/view/lib/bootstrap-3.3.7-dist/css/bootstrap.min.css
+[2017-12-26 14:54:12.686] [INFO] asgc - load D:/myspace/npm/asgc-web/tpl/demo/view/lib/bootstrap-3.3.7-dist/css/bootstrap.min.css.map
+[2017-12-26 14:54:12.686] [INFO] asgc - load D:/myspace/npm/asgc-web/tpl/demo/view/lib/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot
+[2017-12-26 14:54:12.686] [INFO] asgc - load D:/myspace/npm/asgc-web/tpl/demo/view/lib/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg
+[2017-12-26 14:54:12.687] [INFO] asgc - load D:/myspace/npm/asgc-web/tpl/demo/view/lib/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf
+[2017-12-26 14:54:12.687] [INFO] asgc - load D:/myspace/npm/asgc-web/tpl/demo/view/lib/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff
+[2017-12-26 14:54:12.688] [INFO] asgc - load D:/myspace/npm/asgc-web/tpl/demo/view/lib/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2
+[2017-12-26 14:54:12.688] [INFO] asgc - load D:/myspace/npm/asgc-web/tpl/demo/view/lib/bootstrap-3.3.7-dist/js/bootstrap.js
+[2017-12-26 14:54:12.688] [INFO] asgc - load D:/myspace/npm/asgc-web/tpl/demo/view/lib/bootstrap-3.3.7-dist/js/bootstrap.min.js
+[2017-12-26 14:54:12.688] [INFO] asgc - load D:/myspace/npm/asgc-web/tpl/demo/view/lib/bootstrap-3.3.7-dist/js/npm.js
+[2017-12-26 14:54:12.688] [INFO] asgc - load D:/myspace/npm/asgc-web/tpl/demo/view/lib/jquery-1.11.0/jquery-1.11.0.min.js
+[2017-12-26 14:54:12.688] [INFO] asgc - load D:/myspace/npm/asgc-web/tpl/demo/view/WEB-INF/c.html
+[2017-12-26 14:54:12.688] [INFO] asgc - load D:/myspace/npm/asgc-web/tpl/demo/view/WEB-INF/d.html
+[2017-12-26 14:54:12.688] [INFO] asgc - load D:/myspace/npm/asgc-web/tpl/demo/view/WEB-INF/returnView01.html
+[2017-12-26 14:54:12.689] [INFO] asgc - load D:/myspace/npm/asgc-web/tpl/demo/view/WEB-INF/returnView02.html
+[2017-12-26 14:54:12.689] [INFO] asgc - load D:/myspace/npm/asgc-web/tpl/demo/view/WEB-INF/websocket01.html
+[2017-12-26 14:54:12.689] [INFO] asgc - loadViews finished.
+[2017-12-26 14:54:12.689] [INFO] asgc - loadProjectRouter ...
+[2017-12-26 14:54:12.689] [INFO] asgc - loadProjectRouter finished.
+[2017-12-26 14:54:12.689] [INFO] asgc - loadDefaultRouter ...
+[2017-12-26 14:54:12.689] [INFO] asgc - loadDefaultRouter finished.
+[2017-12-26 14:54:12.689] [INFO] asgc - router: /hello /hello
+[2017-12-26 14:54:12.689] [INFO] asgc - router: /forward1 /forward1
+[2017-12-26 14:54:12.690] [INFO] asgc - router: test1 test1
+[2017-12-26 14:54:12.690] [INFO] asgc - router: /test2 /test2
+[2017-12-26 14:54:12.690] [INFO] asgc - router: /test3 /test3
+[2017-12-26 14:54:12.690] [INFO] asgc - router: /index /index
+[2017-12-26 14:54:12.690] [INFO] asgc - router: /test4 /test4
+[2017-12-26 14:54:12.690] [INFO] asgc - router: /redirect1 /redirect1
+[2017-12-26 14:54:12.690] [INFO] asgc - router: /redirect2 /redirect2
+[2017-12-26 14:54:12.690] [INFO] asgc - router: /returnView01 /returnView01
+[2017-12-26 14:54:12.690] [INFO] asgc - router: /returnView02 /returnView02
+[2017-12-26 14:54:12.690] [INFO] asgc - router: /testadd /testadd
+[2017-12-26 14:54:12.690] [INFO] asgc - router: /testsub /testsub
+[2017-12-26 14:54:12.690] [INFO] asgc - router: /websocket01 /websocket01
+[2017-12-26 14:54:12.690] [INFO] asgc - router: /test1 test1
+[2017-12-26 14:54:12.691] [INFO] asgc - router: / /index.html
+[2017-12-26 14:54:12.692] [INFO] asgc - router: /_pages/404.html D:/myspace/npm/asgc-web/pages/404.html
+[2017-12-26 14:54:12.692] [INFO] asgc - router: /_pages/css/animate.css D:/myspace/npm/asgc-web/pages/css/animate.css
+[2017-12-26 14:54:12.693] [INFO] asgc - router: /_pages/css/bootstrap.min.css D:/myspace/npm/asgc-web/pages/css/bootstrap.min.css
+[2017-12-26 14:54:12.693] [INFO] asgc - router: /_pages/css/style.css D:/myspace/npm/asgc-web/pages/css/style.css
+[2017-12-26 14:54:12.693] [INFO] asgc - router: /_pages/css/style.css.map D:/myspace/npm/asgc-web/pages/css/style.css.map
+[2017-12-26 14:54:12.693] [INFO] asgc - router: /_pages/favicon.ico D:/myspace/npm/asgc-web/pages/favicon.ico
+[2017-12-26 14:54:12.693] [INFO] asgc - router: /_pages/fonts/bootstrap/glyphicons-halflings-regular.eot D:/myspace/npm/asgc-web/pages/fonts/bootstrap/glyphicons-halflings-regular.eot
+[2017-12-26 14:54:12.693] [INFO] asgc - router: /_pages/fonts/bootstrap/glyphicons-halflings-regular.svg D:/myspace/npm/asgc-web/pages/fonts/bootstrap/glyphicons-halflings-regular.svg
+[2017-12-26 14:54:12.694] [INFO] asgc - router: /_pages/fonts/bootstrap/glyphicons-halflings-regular.ttf D:/myspace/npm/asgc-web/pages/fonts/bootstrap/glyphicons-halflings-regular.ttf
+[2017-12-26 14:54:12.694] [INFO] asgc - router: /_pages/fonts/bootstrap/glyphicons-halflings-regular.woff D:/myspace/npm/asgc-web/pages/fonts/bootstrap/glyphicons-halflings-regular.woff
+[2017-12-26 14:54:12.694] [INFO] asgc - router: /_pages/fonts/bootstrap/glyphicons-halflings-regular.woff2 D:/myspace/npm/asgc-web/pages/fonts/bootstrap/glyphicons-halflings-regular.woff2
+[2017-12-26 14:54:12.694] [INFO] asgc - router: /_pages/fonts/icomoon/icomoon.eot D:/myspace/npm/asgc-web/pages/fonts/icomoon/icomoon.eot
+[2017-12-26 14:54:12.694] [INFO] asgc - router: /_pages/fonts/icomoon/icomoon.svg D:/myspace/npm/asgc-web/pages/fonts/icomoon/icomoon.svg
+[2017-12-26 14:54:12.694] [INFO] asgc - router: /_pages/fonts/icomoon/icomoon.ttf D:/myspace/npm/asgc-web/pages/fonts/icomoon/icomoon.ttf
+[2017-12-26 14:54:12.694] [INFO] asgc - router: /_pages/fonts/icomoon/icomoon.woff D:/myspace/npm/asgc-web/pages/fonts/icomoon/icomoon.woff
+[2017-12-26 14:54:12.694] [INFO] asgc - router: /_pages/images/404.svg D:/myspace/npm/asgc-web/pages/images/404.svg
+[2017-12-26 14:54:12.694] [INFO] asgc - router: /_pages/js/bootstrap.min.js D:/myspace/npm/asgc-web/pages/js/bootstrap.min.js
+[2017-12-26 14:54:12.694] [INFO] asgc - router: /_pages/js/jquery.min.js D:/myspace/npm/asgc-web/pages/js/jquery.min.js
+[2017-12-26 14:54:12.694] [INFO] asgc - router: /_pages/js/jquery.vide.min.js D:/myspace/npm/asgc-web/pages/js/jquery.vide.min.js
+[2017-12-26 14:54:12.694] [INFO] asgc - router: /_pages/js/jquery.waypoints.min.js D:/myspace/npm/asgc-web/pages/js/jquery.waypoints.min.js
+[2017-12-26 14:54:12.694] [INFO] asgc - router: /_pages/js/main.js D:/myspace/npm/asgc-web/pages/js/main.js
+[2017-12-26 14:54:12.694] [INFO] asgc - router: /_pages/js/modernizr-2.6.2.min.js D:/myspace/npm/asgc-web/pages/js/modernizr-2.6.2.min.js
+[2017-12-26 14:54:12.694] [INFO] asgc - router: /_pages/js/respond.min.js D:/myspace/npm/asgc-web/pages/js/respond.min.js
+[2017-12-26 14:54:12.694] [INFO] asgc - router: /_pages/sass/style.scss D:/myspace/npm/asgc-web/pages/sass/style.scss
+[2017-12-26 14:54:12.695] [INFO] asgc - router: /a.html D:/myspace/npm/asgc-web/tpl/demo/view/a.html
+[2017-12-26 14:54:12.695] [INFO] asgc - router: /b.html D:/myspace/npm/asgc-web/tpl/demo/view/b.html
+[2017-12-26 14:54:12.695] [INFO] asgc - router: /index.html D:/myspace/npm/asgc-web/tpl/demo/view/index.html
+[2017-12-26 14:54:12.695] [INFO] asgc - router: /js/index/index.js D:/myspace/npm/asgc-web/tpl/demo/view/js/index/index.js
+[2017-12-26 14:54:12.695] [INFO] asgc - router: /lib/asgc/asgc.js D:/myspace/npm/asgc-web/tpl/demo/view/lib/asgc/asgc.js
+[2017-12-26 14:54:12.695] [INFO] asgc - router: /lib/bootstrap-3.3.7-dist/css/bootstrap-theme.css D:/myspace/npm/asgc-web/tpl/demo/view/lib/bootstrap-3.3.7-dist/css/bootstrap-theme.css
+[2017-12-26 14:54:12.695] [INFO] asgc - router: /lib/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map D:/myspace/npm/asgc-web/tpl/demo/view/lib/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map
+[2017-12-26 14:54:12.695] [INFO] asgc - router: /lib/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css D:/myspace/npm/asgc-web/tpl/demo/view/lib/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css
+[2017-12-26 14:54:12.695] [INFO] asgc - router: /lib/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map D:/myspace/npm/asgc-web/tpl/demo/view/lib/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map
+[2017-12-26 14:54:12.695] [INFO] asgc - router: /lib/bootstrap-3.3.7-dist/css/bootstrap.css D:/myspace/npm/asgc-web/tpl/demo/view/lib/bootstrap-3.3.7-dist/css/bootstrap.css
+[2017-12-26 14:54:12.695] [INFO] asgc - router: /lib/bootstrap-3.3.7-dist/css/bootstrap.css.map D:/myspace/npm/asgc-web/tpl/demo/view/lib/bootstrap-3.3.7-dist/css/bootstrap.css.map
+[2017-12-26 14:54:12.695] [INFO] asgc - router: /lib/bootstrap-3.3.7-dist/css/bootstrap.min.css D:/myspace/npm/asgc-web/tpl/demo/view/lib/bootstrap-3.3.7-dist/css/bootstrap.min.css
+[2017-12-26 14:54:12.695] [INFO] asgc - router: /lib/bootstrap-3.3.7-dist/css/bootstrap.min.css.map D:/myspace/npm/asgc-web/tpl/demo/view/lib/bootstrap-3.3.7-dist/css/bootstrap.min.css.map
+[2017-12-26 14:54:12.696] [INFO] asgc - router: /lib/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot D:/myspace/npm/asgc-web/tpl/demo/view/lib/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot
+[2017-12-26 14:54:12.696] [INFO] asgc - router: /lib/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg D:/myspace/npm/asgc-web/tpl/demo/view/lib/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg
+[2017-12-26 14:54:12.696] [INFO] asgc - router: /lib/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf D:/myspace/npm/asgc-web/tpl/demo/view/lib/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf
+[2017-12-26 14:54:12.696] [INFO] asgc - router: /lib/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff D:/myspace/npm/asgc-web/tpl/demo/view/lib/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff
+[2017-12-26 14:54:12.696] [INFO] asgc - router: /lib/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2 D:/myspace/npm/asgc-web/tpl/demo/view/lib/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2
+[2017-12-26 14:54:12.696] [INFO] asgc - router: /lib/bootstrap-3.3.7-dist/js/bootstrap.js D:/myspace/npm/asgc-web/tpl/demo/view/lib/bootstrap-3.3.7-dist/js/bootstrap.js
+[2017-12-26 14:54:12.697] [INFO] asgc - router: /lib/bootstrap-3.3.7-dist/js/bootstrap.min.js D:/myspace/npm/asgc-web/tpl/demo/view/lib/bootstrap-3.3.7-dist/js/bootstrap.min.js
+[2017-12-26 14:54:12.697] [INFO] asgc - router: /lib/bootstrap-3.3.7-dist/js/npm.js D:/myspace/npm/asgc-web/tpl/demo/view/lib/bootstrap-3.3.7-dist/js/npm.js
+[2017-12-26 14:54:12.697] [INFO] asgc - router: /lib/jquery-1.11.0/jquery-1.11.0.min.js D:/myspace/npm/asgc-web/tpl/demo/view/lib/jquery-1.11.0/jquery-1.11.0.min.js
+[2017-12-26 14:54:12.697] [INFO] asgc - router: /favicon.ico D:/myspace/npm/asgc-web/pages/favicon.ico
+[2017-12-26 14:54:12.698] [INFO] asgc - startWebapp ...
+[2017-12-26 14:54:12.698] [INFO] asgc - create server ...
+[2017-12-26 14:54:12.699] [INFO] asgc - startWebapp finished.
+[2017-12-26 14:54:12.699] [INFO] asgc - 
+              _____     _____     _____ 
+    /\       / ____|   / ____|   / ____|
+   /  \     | (___    | |  __   | |     
+  / /\ \     \___ \   | | |_ |  | |     
+ / ____ \    ____) |  | |__| |  | |____ 
+/_/    \_\  |_____/    \_____|   \_____|
+
+
+[2017-12-26 14:54:12.699] [INFO] asgc - 启动成功! http://localhost:8088
+[2017-12-26 14:54:16.378] [INFO] asgc - requestParse ... /websocket01
+[2017-12-26 14:54:16.379] [INFO] asgc - parse url /websocket01
+[2017-12-26 14:54:16.379] [INFO] asgc - parse req type...
+[2017-12-26 14:54:16.379] [INFO] asgc - by url suffix: 
+[2017-12-26 14:54:16.379] [INFO] asgc - by action: /websocket01 true
+[2017-12-26 14:54:16.379] [INFO] asgc - req: { url: '/websocket01',
   params: {},
-  suffix: '.html',
+  suffix: '',
+  method: '',
+  type: 'action' }
+[2017-12-26 14:54:16.382] [INFO] asgc - requestDispatch ...
+[2017-12-26 14:54:16.383] [INFO] asgc - doAction:  /websocket01 {}
+[2017-12-26 14:54:16.383] [INFO] asgc - action return data: view:/WEB-INF/websocket01.html
+[2017-12-26 14:54:16.383] [INFO] asgc - data type: string
+[2017-12-26 14:54:16.384] [INFO] asgc - renderString: view:/WEB-INF/websocket01.html
+[2017-12-26 14:54:16.384] [INFO] asgc - renderView: /WEB-INF/websocket01.html
+[2017-12-26 14:54:16.385] [INFO] asgc - renderView: D:/myspace/npm/asgc-web/tpl/demo/view/WEB-INF/websocket01.html
+[2017-12-26 14:54:16.404] [INFO] asgc - requestParse ... /lib/bootstrap-3.3.7-dist/css/bootstrap.min.css
+[2017-12-26 14:54:16.411] [INFO] asgc - parse url /lib/bootstrap-3.3.7-dist/css/bootstrap.min.css
+[2017-12-26 14:54:16.411] [INFO] asgc - parse req type...
+[2017-12-26 14:54:16.411] [INFO] asgc - by url suffix: .css
+[2017-12-26 14:54:16.411] [INFO] asgc - by action: /lib/bootstrap-3.3.7-dist/css/bootstrap.min false
+[2017-12-26 14:54:16.411] [INFO] asgc - by action: /lib/bootstrap-3.3.7-dist/css/bootstrap.min false
+[2017-12-26 14:54:16.412] [INFO] asgc - req: { url: '/lib/bootstrap-3.3.7-dist/css/bootstrap.min.css',
+  params: {},
+  suffix: '.css',
   method: '',
   type: 'resource' }
-[2017-12-19 10:36:28.442] [INFO] asgc - requestDispatch ...
-[2017-12-19 10:36:28.442] [INFO] asgc - doView: /_pages/404.html
-[2017-12-19 10:36:28.442] [INFO] asgc - renderView: D:/myspace/npm/asgc-web/pages/404.html
-[2017-12-19 10:36:28.444] [INFO] asgc - requestParse ... /test/_pages/404.html
-[2017-12-19 10:36:28.444] [INFO] asgc - parse url /test/_pages/404.html
-[2017-12-19 10:36:28.444] [INFO] asgc - parse req type...
-[2017-12-19 10:36:28.445] [INFO] asgc - by url suffix: .html
-[2017-12-19 10:36:28.445] [INFO] asgc - req: { url: '/_pages/404.html',
+[2017-12-26 14:54:16.413] [INFO] asgc - requestDispatch ...
+[2017-12-26 14:54:16.413] [INFO] asgc - doView: /lib/bootstrap-3.3.7-dist/css/bootstrap.min.css
+[2017-12-26 14:54:16.413] [INFO] asgc - renderView: D:/myspace/npm/asgc-web/tpl/demo/view/lib/bootstrap-3.3.7-dist/css/bootstrap.min.css
+[2017-12-26 14:54:16.424] [INFO] asgc - requestParse ... /lib/jquery-1.11.0/jquery-1.11.0.min.js
+[2017-12-26 14:54:16.424] [INFO] asgc - parse url /lib/jquery-1.11.0/jquery-1.11.0.min.js
+[2017-12-26 14:54:16.424] [INFO] asgc - parse req type...
+[2017-12-26 14:54:16.425] [INFO] asgc - by url suffix: .js
+[2017-12-26 14:54:16.425] [INFO] asgc - by action: /lib/jquery-1.11.0/jquery-1.11.0.min false
+[2017-12-26 14:54:16.425] [INFO] asgc - by action: /lib/jquery-1.11.0/jquery-1.11.0.min false
+[2017-12-26 14:54:16.425] [INFO] asgc - req: { url: '/lib/jquery-1.11.0/jquery-1.11.0.min.js',
   params: {},
-  suffix: '.html',
+  suffix: '.js',
   method: '',
   type: 'resource' }
-[2017-12-19 10:36:28.446] [INFO] asgc - requestDispatch ...
-[2017-12-19 10:36:28.447] [INFO] asgc - doView: /_pages/404.html
-[2017-12-19 10:36:28.447] [INFO] asgc - renderView: D:/myspace/npm/asgc-web/pages/404.html
-[2017-12-19 10:36:28.450] [INFO] asgc - requestParse ... /test/_pages/404.html
-[2017-12-19 10:36:28.450] [INFO] asgc - parse url /test/_pages/404.html
-[2017-12-19 10:36:28.450] [INFO] asgc - parse req type...
-[2017-12-19 10:36:28.450] [INFO] asgc - by url suffix: .html
-[2017-12-19 10:36:28.450] [INFO] asgc - req: { url: '/_pages/404.html',
+[2017-12-26 14:54:16.425] [INFO] asgc - requestDispatch ...
+[2017-12-26 14:54:16.425] [INFO] asgc - doView: /lib/jquery-1.11.0/jquery-1.11.0.min.js
+[2017-12-26 14:54:16.425] [INFO] asgc - renderView: D:/myspace/npm/asgc-web/tpl/demo/view/lib/jquery-1.11.0/jquery-1.11.0.min.js
+[2017-12-26 14:54:16.431] [INFO] asgc - requestParse ... /lib/bootstrap-3.3.7-dist/js/bootstrap.min.js
+[2017-12-26 14:54:16.432] [INFO] asgc - parse url /lib/bootstrap-3.3.7-dist/js/bootstrap.min.js
+[2017-12-26 14:54:16.432] [INFO] asgc - parse req type...
+[2017-12-26 14:54:16.432] [INFO] asgc - by url suffix: .js
+[2017-12-26 14:54:16.432] [INFO] asgc - by action: /lib/bootstrap-3.3.7-dist/js/bootstrap.min false
+[2017-12-26 14:54:16.432] [INFO] asgc - by action: /lib/bootstrap-3.3.7-dist/js/bootstrap.min false
+[2017-12-26 14:54:16.432] [INFO] asgc - req: { url: '/lib/bootstrap-3.3.7-dist/js/bootstrap.min.js',
   params: {},
-  suffix: '.html',
+  suffix: '.js',
   method: '',
   type: 'resource' }
-[2017-12-19 10:36:28.450] [INFO] asgc - requestDispatch ...
-[2017-12-19 10:36:28.450] [INFO] asgc - doView: /_pages/404.html
-[2017-12-19 10:36:28.450] [INFO] asgc - renderView: D:/myspace/npm/asgc-web/pages/404.html
-[2017-12-19 10:36:28.451] [INFO] asgc - requestParse ... /test/_pages/404.html
-[2017-12-19 10:36:28.452] [INFO] asgc - parse url /test/_pages/404.html
-[2017-12-19 10:36:28.452] [INFO] asgc - parse req type...
-[2017-12-19 10:36:28.452] [INFO] asgc - by url suffix: .html
-[2017-12-19 10:36:28.452] [INFO] asgc - req: { url: '/_pages/404.html',
+[2017-12-26 14:54:16.432] [INFO] asgc - requestDispatch ...
+[2017-12-26 14:54:16.433] [INFO] asgc - doView: /lib/bootstrap-3.3.7-dist/js/bootstrap.min.js
+[2017-12-26 14:54:16.433] [INFO] asgc - renderView: D:/myspace/npm/asgc-web/tpl/demo/view/lib/bootstrap-3.3.7-dist/js/bootstrap.min.js
+[2017-12-26 14:54:16.489] [INFO] asgc - requestParse ... /lib/bootstrap-3.3.7-dist/css/bootstrap.min.css.map
+[2017-12-26 14:54:16.489] [INFO] asgc - parse url /lib/bootstrap-3.3.7-dist/css/bootstrap.min.css.map
+[2017-12-26 14:54:16.489] [INFO] asgc - parse req type...
+[2017-12-26 14:54:16.490] [INFO] asgc - by url suffix: .map
+[2017-12-26 14:54:16.490] [INFO] asgc - by action: /lib/bootstrap-3.3.7-dist/css/bootstrap.min.css false
+[2017-12-26 14:54:16.490] [INFO] asgc - by action: /lib/bootstrap-3.3.7-dist/css/bootstrap.min.css false
+[2017-12-26 14:54:16.490] [INFO] asgc - req: { url: '/lib/bootstrap-3.3.7-dist/css/bootstrap.min.css.map',
   params: {},
-  suffix: '.html',
+  suffix: '.map',
   method: '',
   type: 'resource' }
-[2017-12-19 10:36:28.452] [INFO] asgc - requestDispatch ...
-[2017-12-19 10:36:28.452] [INFO] asgc - doView: /_pages/404.html
-[2017-12-19 10:36:28.452] [INFO] asgc - renderView: D:/myspace/npm/asgc-web/pages/404.html
-[2017-12-19 10:36:28.453] [INFO] asgc - requestParse ... /test/_pages/404.html
-[2017-12-19 10:36:28.453] [INFO] asgc - parse url /test/_pages/404.html
-[2017-12-19 10:36:28.454] [INFO] asgc - parse req type...
-[2017-12-19 10:36:28.454] [INFO] asgc - by url suffix: .html
-[2017-12-19 10:36:28.454] [INFO] asgc - req: { url: '/_pages/404.html',
-  params: {},
-  suffix: '.html',
-  method: '',
-  type: 'resource' }
-[2017-12-19 10:36:28.454] [INFO] asgc - requestDispatch ...
-[2017-12-19 10:36:28.454] [INFO] asgc - doView: /_pages/404.html
-[2017-12-19 10:36:28.454] [INFO] asgc - renderView: D:/myspace/npm/asgc-web/pages/404.html
-[2017-12-19 10:36:28.467] [INFO] asgc - requestParse ... /favicon.ico
-[2017-12-19 10:36:28.467] [INFO] asgc - doView: /favicon.ico
+[2017-12-26 14:54:16.490] [INFO] asgc - requestDispatch ...
+[2017-12-26 14:54:16.490] [INFO] asgc - doView: /lib/bootstrap-3.3.7-dist/css/bootstrap.min.css.map
+[2017-12-26 14:54:16.490] [INFO] asgc - renderView: D:/myspace/npm/asgc-web/tpl/demo/view/lib/bootstrap-3.3.7-dist/css/bootstrap.min.css.map
+[2017-12-26 14:54:16.511] [INFO] asgc - requestParse ... /favicon.ico
+[2017-12-26 14:54:16.511] [INFO] asgc - doView: /favicon.ico
+[2017-12-26 14:56:16.514] [INFO] asgc - requestParse ... /favicon.ico
+[2017-12-26 14:56:16.515] [INFO] asgc - doView: /favicon.ico
