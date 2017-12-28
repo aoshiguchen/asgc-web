@@ -1,27 +1,155 @@
-[2017-12-19 10:26:09.266] [INFO] asgc - startWebapp ...
-[2017-12-19 10:26:09.266] [INFO] asgc - create server ...
-[2017-12-19 10:26:09.282] [INFO] asgc - startWebapp finished.
-[2017-12-19 10:26:09.282] [INFO] asgc - 
-              _____     _____     _____ 
-    /\       / ____|   / ____|   / ____|
-   /  \     | (___    | |  __   | |     
-  / /\ \     \___ \   | | |_ |  | |     
- / ____ \    ____) |  | |__| |  | |____ 
-/_/    \_\  |_____/    \_____|   \_____|
-
-
-[2017-12-19 10:26:09.282] [INFO] asgc - 启动成功! http://localhost:8088
-[2017-12-19 10:26:11.301] [INFO] asgc - requestParse ... /welcome
-[2017-12-19 10:26:11.301] [INFO] asgc - parse url /welcome
-[2017-12-19 10:26:11.302] [INFO] asgc - parse req type...
-[2017-12-19 10:26:11.302] [INFO] asgc - by url suffix: 
-[2017-12-19 10:26:11.302] [INFO] asgc - by action: /welcome false
-[2017-12-19 10:26:11.302] [INFO] asgc - by action: /welcome true
-[2017-12-19 10:26:11.302] [INFO] asgc - req: { url: 'www', params: {}, suffix: '', method: '', type: 'action' }
-[2017-12-19 10:26:11.304] [INFO] asgc - requestDispatch ...
-[2017-12-19 10:26:11.305] [INFO] asgc - doAction:  www {}
-[2017-12-19 10:26:11.305] [INFO] asgc - action return data: welcome
-[2017-12-19 10:26:11.305] [INFO] asgc - data type: string
-[2017-12-19 10:26:11.305] [INFO] asgc - renderString: welcome
-[2017-12-19 10:26:11.317] [INFO] asgc - requestParse ... /favicon.ico
-[2017-12-19 10:26:11.317] [INFO] asgc - doView: /favicon.ico
+[2017-12-28 15:15:59.513] [INFO] asgc - renderView: D:/myspace/npm/asgc-web/pages/js/jquery.vide.min.js
+[2017-12-28 15:15:59.514] [INFO] asgc - requestParse ... /_pages/js/jquery.waypoints.min.js
+[2017-12-28 15:15:59.515] [INFO] asgc - parse url /_pages/js/jquery.waypoints.min.js
+[2017-12-28 15:15:59.515] [INFO] asgc - parse req type...
+[2017-12-28 15:15:59.515] [INFO] asgc - by url suffix: .js
+[2017-12-28 15:15:59.515] [INFO] asgc - by action: /_pages/js/jquery.waypoints.min false
+[2017-12-28 15:15:59.515] [INFO] asgc - by action: /_pages/js/jquery.waypoints.min false
+[2017-12-28 15:15:59.515] [INFO] asgc - req: { url: '/_pages/js/jquery.waypoints.min.js',
+  params: {},
+  suffix: '.js',
+  method: '',
+  type: 'resource' }
+[2017-12-28 15:15:59.515] [INFO] asgc - requestDispatch ...
+[2017-12-28 15:15:59.515] [INFO] asgc - doView: /_pages/js/jquery.waypoints.min.js
+[2017-12-28 15:15:59.515] [INFO] asgc - renderView: D:/myspace/npm/asgc-web/pages/js/jquery.waypoints.min.js
+[2017-12-28 15:15:59.516] [INFO] asgc - requestParse ... /_pages/js/main.js
+[2017-12-28 15:15:59.516] [INFO] asgc - parse url /_pages/js/main.js
+[2017-12-28 15:15:59.517] [INFO] asgc - parse req type...
+[2017-12-28 15:15:59.517] [INFO] asgc - by url suffix: .js
+[2017-12-28 15:15:59.517] [INFO] asgc - by action: /_pages/js/main false
+[2017-12-28 15:15:59.517] [INFO] asgc - by action: /_pages/js/main false
+[2017-12-28 15:15:59.517] [INFO] asgc - req: { url: '/_pages/js/main.js',
+  params: {},
+  suffix: '.js',
+  method: '',
+  type: 'resource' }
+[2017-12-28 15:15:59.517] [INFO] asgc - requestDispatch ...
+[2017-12-28 15:15:59.517] [INFO] asgc - doView: /_pages/js/main.js
+[2017-12-28 15:15:59.518] [INFO] asgc - renderView: D:/myspace/npm/asgc-web/pages/js/main.js
+[2017-12-28 15:15:59.533] [INFO] asgc - requestParse ... /_pages/images/404.svg
+[2017-12-28 15:15:59.533] [INFO] asgc - parse url /_pages/images/404.svg
+[2017-12-28 15:15:59.533] [INFO] asgc - parse req type...
+[2017-12-28 15:15:59.533] [INFO] asgc - by url suffix: .svg
+[2017-12-28 15:15:59.533] [INFO] asgc - by action: /_pages/images/404 false
+[2017-12-28 15:15:59.533] [INFO] asgc - by action: /_pages/images/404 false
+[2017-12-28 15:15:59.533] [INFO] asgc - req: { url: '/_pages/images/404.svg',
+  params: {},
+  suffix: '.svg',
+  method: '',
+  type: 'resource' }
+[2017-12-28 15:15:59.533] [INFO] asgc - requestDispatch ...
+[2017-12-28 15:15:59.533] [INFO] asgc - doView: /_pages/images/404.svg
+[2017-12-28 15:15:59.533] [INFO] asgc - renderView: D:/myspace/npm/asgc-web/pages/images/404.svg
+[2017-12-28 15:16:07.449] [INFO] asgc - requestParse ... /favicon.ico
+[2017-12-28 15:16:07.449] [INFO] asgc - doView: /favicon.ico
+[2017-12-28 15:16:21.521] [INFO] asgc - requestParse ... /testadd
+[2017-12-28 15:16:21.521] [INFO] asgc - parse url /testadd
+[2017-12-28 15:16:21.521] [INFO] asgc - parse req type...
+[2017-12-28 15:16:21.521] [INFO] asgc - by url suffix: 
+[2017-12-28 15:16:21.521] [INFO] asgc - by action: /testadd true
+[2017-12-28 15:16:21.521] [INFO] asgc - req: { url: '/testadd',
+  params: {},
+  suffix: '',
+  method: '',
+  type: 'action' }
+[2017-12-28 15:16:21.536] [INFO] asgc - requestDispatch ...
+[2017-12-28 15:16:21.538] [INFO] asgc - doAction:  /testadd {}
+[2017-12-28 15:16:21.539] [INFO] asgc - /testadd {}
+[2017-12-28 15:16:21.539] [INFO] asgc - action return data: 6
+[2017-12-28 15:16:21.540] [INFO] asgc - data type: number
+[2017-12-28 15:16:21.540] [INFO] asgc - renderNumber: 6
+[2017-12-28 15:16:25.121] [INFO] asgc - requestParse ... /testsub
+[2017-12-28 15:16:25.122] [INFO] asgc - parse url /testsub
+[2017-12-28 15:16:25.122] [INFO] asgc - parse req type...
+[2017-12-28 15:16:25.122] [INFO] asgc - by url suffix: 
+[2017-12-28 15:16:25.122] [INFO] asgc - by action: /testsub true
+[2017-12-28 15:16:25.122] [INFO] asgc - req: { url: '/testsub',
+  params: {},
+  suffix: '',
+  method: '',
+  type: 'action' }
+[2017-12-28 15:16:25.122] [INFO] asgc - requestDispatch ...
+[2017-12-28 15:16:25.122] [INFO] asgc - doAction:  /testsub {}
+[2017-12-28 15:16:25.122] [INFO] asgc - /testadd {}
+[2017-12-28 15:16:25.123] [INFO] asgc - action return data: 2
+[2017-12-28 15:16:25.123] [INFO] asgc - data type: number
+[2017-12-28 15:16:25.123] [INFO] asgc - renderNumber: 2
+[2017-12-28 15:16:29.037] [INFO] asgc - requestParse ... /favicon.ico
+[2017-12-28 15:16:29.037] [INFO] asgc - doView: /favicon.ico
+[2017-12-28 15:16:29.037] [INFO] asgc - requestParse ... /favicon.ico
+[2017-12-28 15:16:29.037] [INFO] asgc - doView: /favicon.ico
+[2017-12-28 15:16:31.664] [INFO] asgc - requestParse ... /test4
+[2017-12-28 15:16:31.664] [INFO] asgc - parse url /test4
+[2017-12-28 15:16:31.664] [INFO] asgc - parse req type...
+[2017-12-28 15:16:31.664] [INFO] asgc - by url suffix: 
+[2017-12-28 15:16:31.664] [INFO] asgc - by action: /test4 true
+[2017-12-28 15:16:31.664] [INFO] asgc - req: { url: '/test4',
+  params: {},
+  suffix: '',
+  method: '',
+  type: 'action' }
+[2017-12-28 15:16:31.664] [INFO] asgc - requestDispatch ...
+[2017-12-28 15:16:31.664] [INFO] asgc - doAction:  /test4 {}
+[2017-12-28 15:16:31.664] [INFO] asgc - action return data: forward:/hello
+[2017-12-28 15:16:31.664] [INFO] asgc - data type: string
+[2017-12-28 15:16:31.664] [INFO] asgc - renderString: forward:/hello
+[2017-12-28 15:16:31.664] [INFO] asgc - forward: /hello
+[2017-12-28 15:16:31.664] [INFO] asgc - forword: /hello
+[2017-12-28 15:16:31.664] [INFO] asgc - requestDispatch ...
+[2017-12-28 15:16:31.664] [INFO] asgc - doAction:  /hello {}
+[2017-12-28 15:16:31.664] [INFO] asgc - hello action
+[2017-12-28 15:16:31.664] [INFO] asgc - action return data: hello world !
+[2017-12-28 15:16:31.664] [INFO] asgc - data type: string
+[2017-12-28 15:16:31.664] [INFO] asgc - renderString: hello world !
+[2017-12-28 15:16:32.958] [INFO] asgc - requestParse ... /test4-1
+[2017-12-28 15:16:32.958] [INFO] asgc - parse url /test4-1
+[2017-12-28 15:16:32.958] [INFO] asgc - parse req type...
+[2017-12-28 15:16:32.958] [INFO] asgc - by url suffix: 
+[2017-12-28 15:16:32.958] [INFO] asgc - by action: /test4-1 true
+[2017-12-28 15:16:32.958] [INFO] asgc - req: { url: '/test4-1',
+  params: {},
+  suffix: '',
+  method: '',
+  type: 'action' }
+[2017-12-28 15:16:32.958] [INFO] asgc - requestDispatch ...
+[2017-12-28 15:16:32.959] [INFO] asgc - doAction:  /test4-1 {}
+[2017-12-28 15:16:32.959] [INFO] asgc - action return data: hello world !
+[2017-12-28 15:16:32.959] [INFO] asgc - data type: string
+[2017-12-28 15:16:32.959] [INFO] asgc - renderString: hello world !
+[2017-12-28 15:16:46.816] [INFO] asgc - requestParse ... /test4-1?a=1
+[2017-12-28 15:16:46.816] [INFO] asgc - parse url /test4-1?a=1
+[2017-12-28 15:16:46.817] [INFO] asgc - parse req type...
+[2017-12-28 15:16:46.817] [INFO] asgc - by url suffix: 
+[2017-12-28 15:16:46.817] [INFO] asgc - by action: /test4-1 true
+[2017-12-28 15:16:46.817] [INFO] asgc - req: { url: '/test4-1',
+  params: [ a: '1' ],
+  suffix: '',
+  method: '',
+  type: 'action' }
+[2017-12-28 15:16:46.817] [INFO] asgc - requestDispatch ...
+[2017-12-28 15:16:46.817] [INFO] asgc - doAction:  /test4-1 [ a: '1' ]
+[2017-12-28 15:16:46.818] [INFO] asgc - action return data: hello world !
+[2017-12-28 15:16:46.818] [INFO] asgc - data type: string
+[2017-12-28 15:16:46.818] [INFO] asgc - renderString: hello world !
+[2017-12-28 15:16:51.622] [INFO] asgc - requestParse ... /favicon.ico
+[2017-12-28 15:16:51.622] [INFO] asgc - doView: /favicon.ico
+[2017-12-28 15:16:51.622] [INFO] asgc - requestParse ... /favicon.ico
+[2017-12-28 15:16:51.622] [INFO] asgc - doView: /favicon.ico
+[2017-12-28 15:16:52.764] [INFO] asgc - requestParse ... /test4-1?a=1&b=2
+[2017-12-28 15:16:52.764] [INFO] asgc - parse url /test4-1?a=1&b=2
+[2017-12-28 15:16:52.765] [INFO] asgc - parse req type...
+[2017-12-28 15:16:52.765] [INFO] asgc - by url suffix: 
+[2017-12-28 15:16:52.765] [INFO] asgc - by action: /test4-1 true
+[2017-12-28 15:16:52.765] [INFO] asgc - req: { url: '/test4-1',
+  params: [ a: '1', b: '2' ],
+  suffix: '',
+  method: '',
+  type: 'action' }
+[2017-12-28 15:16:52.766] [INFO] asgc - requestDispatch ...
+[2017-12-28 15:16:52.766] [INFO] asgc - doAction:  /test4-1 [ a: '1', b: '2' ]
+[2017-12-28 15:16:52.766] [INFO] asgc - action return data: hello world !
+[2017-12-28 15:16:52.766] [INFO] asgc - data type: string
+[2017-12-28 15:16:52.766] [INFO] asgc - renderString: hello world !
+[2017-12-28 15:17:01.770] [INFO] asgc - requestParse ... /favicon.ico
+[2017-12-28 15:17:01.771] [INFO] asgc - doView: /favicon.ico
